@@ -1,0 +1,901 @@
+applicant-first-name,applicant-full-name,application-date,employee-last-name,hire-date,term-date,employee-full-name,matching-score,tenure-years,employee-first-name,employee-id,applicant-last-name,direction,applicant-id
+robert,robert scott,2012-01-28,bryant,2014-08-13,2017-04-20,scott bryant,0.7833333253860474,2.6666667,scott,1949,scott,applicant->employee,1
+brandon,brandon torres,2012-02-04,reyes simmons,2017-09-22,2021-03-31,brandon reyes simmons,0.7743589639663697,3.5,brandon,1710,torres,applicant->employee,2
+jonathan,jonathan jackson,2012-02-07,jackson,2015-09-03,2018-02-24,anthony jackson,0.8464285612106324,2.4166667,anthony,1969,jackson,applicant->employee,3
+sarah,sarah white,2012-02-09,white,2020-01-05,2021-03-31,chris white,0.7400000095367432,1.1666666,chris,1426,white,applicant->employee,4
+barbara,barbara morris,2012-02-23,ross,2019-04-27,2021-03-31,barbara ross,0.8333333253860473,1.9166666,barbara,1379,morris,applicant->employee,5
+nicholas,nicholas taylor,2012-03-06,torres,2018-08-18,2021-03-31,nicholas torres,0.7833333253860474,2.5833333,nicholas,1133,taylor,applicant->employee,6
+anthony,anthony sanders,2012-03-14,sanders,2018-07-31,2021-03-31,carolyn sanders,0.7571428537368774,2.6666667,carolyn,1014,sanders,applicant->employee,7
+rebecca,rebecca flores,2012-04-05,bell,2019-02-12,2020-01-28,rebecca bell,0.7166666746139526,0.9166667,rebecca,1054,flores,applicant->employee,8
+jeffrey,jeffrey ross,2012-04-14,rogers,2015-09-29,2017-07-10,jeffrey rogers,0.8333333253860473,1.75,jeffrey,1964,ross,applicant->employee,9
+andrew,andrew wright,2012-04-15,wright,2017-08-27,2021-03-31,brandon wright,0.7761904716491699,3.5833333,brandon,1858,wright,applicant->employee,10
+samuel,samuel gonzalez,2012-05-09,powell,2020-01-25,2020-03-09,samuel powell,0.7083333253860473,0.083333336,samuel,1575,gonzalez,applicant->employee,11
+dorothy,dorothy robinson,2012-06-02,nelson,2020-01-24,2021-03-31,dorothy nelson,0.8083333253860474,1.1666666,dorothy,1305,robinson,applicant->employee,12
+rebecca,rebecca taylor,2012-07-02,taylor,2018-09-27,2021-03-31,michael taylor,0.7285714387893677,2.5,michael,1718,taylor,applicant->employee,13
+patrick,patrick phillips,2012-07-21,phillips,2018-08-10,2019-06-19,karen phillips,0.7057142972946167,0.8333333,karen,1454,phillips,applicant->employee,14
+matthew,matthew sanchez,2012-07-23,hernandez,2018-05-30,2021-03-31,matthew hernandez,0.7984127044677735,2.8333333,matthew,1782,sanchez,applicant->employee,15
+emma,emma martin,2012-08-15,watson,2017-10-29,2017-11-04,emma watson,0.8,0.0,emma,1824,martin,applicant->employee,16
+george,george williams,2012-08-15,rogers,2018-09-24,2021-03-31,william rogers,0.8416666746139526,2.5,william,1955,williams,applicant->employee,17
+katherine,katherine butler,2012-08-20,butler,2012-08-27,2015-02-21,katherine butler,1.0,2.4166667,katherine,1496,butler,applicant->employee,18
+eric,eric lewis,2012-08-24,lewis,2019-05-18,2021-03-31,charles lewis,0.7357142925262451,1.8333334,charles,1322,lewis,applicant->employee,19
+margaret,margaret clark,2012-08-29,walker,2019-10-08,2020-03-18,margaret walker,0.7933333396911622,0.41666666,margaret,1252,clark,applicant->employee,20
+catherine,catherine martin,2012-09-01,martin,2017-07-04,2017-09-16,chris martin,0.848888897895813,0.16666667,chris,1671,martin,applicant->employee,21
+robert,robert green,2012-09-26,roberts,2014-03-11,2015-11-16,greg roberts,0.8314285516738893,1.6666666,greg,1623,green,applicant->employee,22
+edward,edward stewart,2012-10-06,ross,2016-05-09,2018-08-04,edward ross,0.7071428537368775,2.1666667,edward,1664,stewart,applicant->employee,23
+pam,pam harris,2012-11-08,harris,2015-04-02,2017-11-29,pam harris,1.0,2.5833333,pam,1715,harris,applicant->employee,24
+jeffrey,jeffrey brooks,2012-11-19,rogers,2015-09-29,2017-07-10,jeffrey rogers,0.7666666746139527,1.75,jeffrey,1964,brooks,applicant->employee,25
+eric,eric hall,2012-11-28,hall,2018-08-10,2018-09-06,kimberly hall,0.725,0.0,kimberly,1554,hall,applicant->employee,26
+nancy,nancy rogers,2012-11-29,edwards,2018-08-05,2019-02-06,nancy edwards,0.7690476179122925,0.5,nancy,1065,rogers,applicant->employee,27
+rebecca,rebecca jones,2012-12-06,collins,2016-12-05,2018-09-13,rebecca collins,0.8057142972946167,1.75,rebecca,1393,jones,applicant->employee,28
+raymond,raymond campbell,2012-12-24,campbell,2018-06-29,2021-03-31,dorothy campbell,0.7571428537368774,2.75,dorothy,1196,campbell,applicant->employee,29
+cynthia,cynthia bailey,2013-01-09,bailey,2019-02-19,2021-03-31,kathy bailey,0.7742857217788697,2.0833333,kathy,1155,bailey,applicant->employee,30
+melissa,melissa taylor,2013-01-10,taylor,2018-09-27,2021-03-31,michael taylor,0.7857142925262451,2.5,michael,1718,taylor,applicant->employee,31
+kathleen,kathleen stewart,2013-02-09,stewart,2019-05-27,2020-01-09,angela stewart,0.7916666746139527,0.5833333,angela,1493,stewart,applicant->employee,32
+larry,larry wilson,2013-02-09,collins,2018-07-01,2021-03-31,larry collins,0.838095235824585,2.6666667,larry,1864,wilson,applicant->employee,33
+justin,justin gomez-alexander,2013-02-17,gomez alexander,2014-12-20,2017-08-18,justin gomez alexander,0.9733333349227905,2.5833333,justin,1310,gomez-alexander,applicant->employee,34
+amy,amy taylor,2013-02-28,taylor,2017-10-28,2021-03-31,gary taylor,0.7333333253860473,3.4166667,gary,1180,taylor,applicant->employee,35
+jeffrey,jeffrey lewis,2013-03-04,collins cole,2016-02-27,2018-03-24,jeffrey collins cole,0.7599999904632568,2.0,jeffrey,1758,lewis,applicant->employee,36
+greg,greg brown alexander,2013-03-06,brown alexander,2015-08-11,2017-08-30,greg brown alexander,1.0,2.0,greg,1721,brown alexander,applicant->employee,37
+nancy,nancy sanchez,2013-04-10,martinez,2017-10-15,2019-12-26,nancy martinez,0.8142857074737548,2.1666667,nancy,1620,sanchez,applicant->employee,38
+deborah,deborah evans,2013-04-28,evans,2013-07-21,2015-06-23,deborah evans,1.0,1.9166666,deborah,1678,evans,applicant->employee,39
+melissa,melissa nguyen,2013-05-05,nguyen,2016-02-21,2018-09-04,melissa nguyen,1.0,2.5,melissa,1464,nguyen,applicant->employee,40
+emma,emma evans,2013-05-05,jones,2019-11-24,2021-03-31,emma jones,0.7400000095367432,1.3333334,emma,1762,evans,applicant->employee,41
+angela,angela martinez,2013-05-16,martinez,2017-10-27,2021-03-31,daniel martinez,0.8500000000000001,3.4166667,daniel,1783,martinez,applicant->employee,42
+lisa,lisa stewart,2013-06-09,stewart,2016-05-18,2018-07-03,linda stewart,0.8700000047683716,2.0833333,linda,1018,stewart,applicant->employee,43
+debra,debra edwards,2013-06-10,edwards,2013-08-09,2016-02-08,debra edwards,1.0,2.4166667,debra,1546,edwards,applicant->employee,44
+betty,betty reed,2013-06-16,green,2016-10-12,2017-10-09,betty green,0.7700000047683716,0.9166667,betty,1315,reed,applicant->employee,45
+eric,eric turner,2013-06-27,peterson,2015-08-13,2017-12-25,eric peterson,0.7916666746139527,2.3333333,eric,1520,turner,applicant->employee,46
+raymond,raymond gray,2013-07-01,gray,2017-01-16,2018-11-06,donna gray,0.8142857074737548,1.75,donna,1144,gray,applicant->employee,47
+margaret,margaret carter,2013-07-01,carter,2016-07-21,2017-07-29,greg carter,0.8,1.0,greg,1391,carter,applicant->employee,48
+kim,kim hill,2013-07-02,hill,2013-07-05,2016-03-22,kim hill,1.0,2.6666667,kim,1039,hill,applicant->employee,49
+joseph,joseph long,2013-07-02,gibson,2018-04-07,2019-10-06,joseph gibson,0.75,1.4166666,joseph,1284,long,applicant->employee,50
+donna,donna moore,2013-07-04,moore,2019-11-24,2021-03-31,donald moore,0.8666666746139526,1.3333334,donald,1714,moore,applicant->employee,51
+david,david robinson,2013-07-30,robinson,2015-11-27,2017-10-31,david robinson,1.0,1.9166666,david,1059,robinson,applicant->employee,52
+melissa,melissa parker,2013-07-31,parker,2016-03-22,2018-03-18,william parker,0.7857142925262451,1.9166666,william,1980,parker,applicant->employee,53
+christopher,christopher rodriguez,2013-08-13,rodriguez,2015-09-18,2017-09-28,christopher rodriguez,1.0,2.0,christopher,1114,rodriguez,applicant->employee,54
+benjamin,benjamin long,2013-09-07,long,2018-04-15,2021-03-31,james long,0.7599999904632568,2.9166667,james,1293,long,applicant->employee,55
+katherine,katherine hill,2013-09-13,hill,2013-12-05,2015-03-31,katherine hill,1.0,1.25,katherine,1933,hill,applicant->employee,56
+brian,brian harris,2013-09-24,richardson,2019-07-07,2021-03-31,brian richardson,0.8200000047683715,1.6666666,brian,1712,harris,applicant->employee,57
+scott,scott ramirez,2013-09-30,martinez,2018-09-16,2021-03-31,scott martinez,0.8500000000000001,2.5,scott,1419,ramirez,applicant->employee,58
+sarah,sarah lee,2013-10-01,miller,2017-07-18,2019-09-14,sarah miller,0.8,2.0833333,sarah,1128,lee,applicant->employee,59
+carolyn,carolyn green reynolds,2013-10-04,green-reynolds,2013-12-15,2015-10-17,carolyn green-reynolds,0.9714285612106324,1.8333334,carolyn,1589,green reynolds,applicant->employee,60
+katherine,katherine nguyen-bryant,2013-10-23,nguyen-bryant,2016-07-17,2017-12-22,katherine nguyen-bryant,1.0,1.4166666,katherine,1290,nguyen-bryant,applicant->employee,61
+david,david stewart hamilton,2013-11-02,stewart-hamilton,2016-11-22,2018-09-10,david stewart-hamilton,0.975,1.75,david,1632,stewart hamilton,applicant->employee,62
+christopher,christopher price-chavez,2013-11-05,price-chavez,2013-12-15,2015-08-20,christopher price-chavez,1.0,1.6666666,christopher,1123,price-chavez,applicant->employee,63
+beth,beth russell,2013-11-09,russell,2015-12-07,2018-01-22,beth russell,1.0,2.0833333,beth,1519,russell,applicant->employee,64
+kathleen,kathleen roberts,2013-11-10,rogers,2016-07-02,2019-02-09,kathy rogers,0.769523811340332,2.5833333,kathy,1205,roberts,applicant->employee,65
+dennis,dennis campbell,2013-11-11,campbell,2017-08-23,2018-02-04,stephanie campbell,0.7777777671813966,0.41666666,stephanie,1952,campbell,applicant->employee,66
+betty,betty gonzalez-jordan,2013-11-20,gonzalez jordan,2014-01-18,2016-06-10,betty gonzalez jordan,0.9733333349227905,2.3333333,betty,1860,gonzalez-jordan,applicant->employee,67
+kathleen,kathleen wright,2013-11-23,wright,2017-12-25,2019-10-03,kathy wright,0.8599999904632568,1.75,kathy,1430,wright,applicant->employee,68
+melissa,melissa cox,2013-12-02,cox,2015-12-28,2018-06-02,lisa cox,0.8428571462631226,2.4166667,lisa,1615,cox,applicant->employee,69
+ashley,ashley brown,2013-12-22,anderson,2018-01-24,2021-03-31,ashley anderson,0.7700000047683716,3.1666667,ashley,1273,brown,applicant->employee,70
+greg,greg roberts,2013-12-31,roberts,2014-03-11,2015-11-16,greg roberts,1.0,1.6666666,greg,1623,roberts,applicant->employee,71
+nancy,nancy wood,2014-01-04,ward ramos,2017-08-03,2018-03-03,nancy ward ramos,0.7599999904632568,0.5833333,nancy,1596,wood,applicant->employee,72
+brian,brian green,2014-01-17,rogers-west,2017-11-25,2021-03-31,brian rogers-west,0.7509090900421143,3.3333333,brian,1107,green,applicant->employee,73
+ken,ken adams,2014-01-26,adams,2015-09-25,2017-10-20,ken adams,1.0,2.0,ken,1742,adams,applicant->employee,74
+samantha,samantha parker,2014-02-08,parker,2018-03-20,2021-03-31,matthew parker,0.7928571462631226,3.0,matthew,1815,parker,applicant->employee,75
+carol,carol collins,2014-02-09,wilson,2018-02-19,2020-01-22,carol wilson,0.838095235824585,1.9166666,carol,1781,collins,applicant->employee,76
+shirley,shirley roberts,2014-02-15,roberts,2014-05-10,2016-09-21,shirley roberts,1.0,2.3333333,shirley,1878,roberts,applicant->employee,77
+brian,brian gray,2014-02-16,gray,2019-09-05,2021-03-31,christine gray,0.7088888883590698,1.5,christine,1918,gray,applicant->employee,78
+joseph,joseph peterson,2014-02-20,gibson,2018-04-07,2019-10-06,joseph gibson,0.775,1.4166666,joseph,1284,peterson,applicant->employee,79
+nicole,nicole harris,2014-02-25,harris,2014-05-11,2016-09-03,nicole harris,1.0,2.25,nicole,1255,harris,applicant->employee,80
+amy,amy ramirez,2014-02-26,ramirez,2014-03-03,2016-10-09,amy ramirez,1.0,2.5833333,amy,1318,ramirez,applicant->employee,81
+andrew,andrew morris-bryant,2014-03-08,morris bryant,2016-06-18,2018-04-14,andrew morris bryant,0.9692307710647583,1.75,andrew,1094,morris-bryant,applicant->employee,82
+pam,pam bell,2014-03-14,bell,2016-04-18,2017-09-05,pam bell,1.0,1.3333334,pam,1335,bell,applicant->employee,83
+timothy,timothy hill,2014-03-31,hill,2014-06-23,2015-05-03,tim hill,0.8642857074737549,0.8333333,tim,1254,hill,applicant->employee,84
+david,david diaz,2014-04-02,diaz,2014-04-11,2016-12-24,david diaz,1.0,2.6666667,david,1008,diaz,applicant->employee,85
+donna,donna jenkins,2014-04-13,jenkins,2018-05-21,2021-03-31,daniel jenkins,0.7599999904632568,2.8333333,daniel,1983,jenkins,applicant->employee,86
+daniel,daniel adams,2014-04-14,adams,2014-05-05,2015-05-16,daniel adams,1.0,1.0,daniel,1427,adams,applicant->employee,87
+jacob,jacob brooks,2014-04-25,gibson,2016-04-26,2016-10-28,jacob gibson,0.7333333253860473,0.5,jacob,1161,brooks,applicant->employee,88
+stephanie,stephanie jones,2014-04-26,morales,2016-09-21,2017-12-12,stephanie morales,0.8057142972946167,1.1666666,stephanie,1164,jones,applicant->employee,89
+jason,jason gonzalez,2014-04-29,gonzalez,2014-06-11,2015-12-28,jason gonzalez,1.0,1.5,jason,1526,gonzalez,applicant->employee,90
+eric,eric cook,2014-05-10,cook,2017-11-23,2021-03-31,catherine cook,0.8111111164093018,3.3333333,catherine,1190,cook,applicant->employee,91
+sandra,sandra nguyen,2014-05-13,nguyen,2014-08-06,2016-01-06,sandra nguyen,1.0,1.4166666,sandra,1813,nguyen,applicant->employee,92
+jack,jack taylor,2014-05-16,gonzalez-alexander,2017-11-01,2021-03-31,jack gonzalez-alexander,0.7111111164093018,3.3333333,jack,1654,taylor,applicant->employee,93
+matthew,matthew james,2014-05-20,myers,2017-02-26,2017-10-17,matthew myers,0.8400000095367431,0.5833333,matthew,1375,james,applicant->employee,94
+beth,beth bell-chavez,2014-05-23,bell-chavez,2016-07-14,2019-03-19,beth bell-chavez,1.0,2.6666667,beth,1981,bell-chavez,applicant->employee,95
+richard,richard diaz,2014-06-05,diaz,2019-01-03,2021-03-31,christine diaz,0.7539682626724243,2.1666667,christine,1926,diaz,applicant->employee,96
+amy,amy cruz,2014-06-08,cruz,2019-10-28,2021-03-31,emma cruz,0.7833333253860474,1.4166666,emma,1535,cruz,applicant->employee,97
+beth,beth clark,2014-06-08,clark,2014-08-31,2016-04-29,beth clark,1.0,1.5833334,beth,1511,clark,applicant->employee,98
+patrick,patrick martin,2014-06-08,martinez,2016-07-12,2019-03-19,patrick martinez,0.9500000000000001,2.6666667,patrick,1583,martin,applicant->employee,99
+scott,scott hughes-hamilton,2014-06-18,hughes hamilton,2017-07-09,2017-12-31,scott hughes hamilton,0.9733333349227905,0.41666666,scott,1949,hughes-hamilton,applicant->employee,100
+kathleen,kathleen gray,2014-06-27,gray,2016-12-31,2017-06-01,carolyn gray,0.7607142806053162,0.41666666,carolyn,1287,gray,applicant->employee,101
+jessica,jessica hughes,2014-06-30,hughes,2018-01-11,2018-03-28,elizabeth hughes,0.7246031761169434,0.16666667,elizabeth,1497,hughes,applicant->employee,102
+karen,karen lewis,2014-07-09,lewis,2019-05-18,2021-03-31,charles lewis,0.8057142972946167,1.8333334,charles,1322,lewis,applicant->employee,103
+katherine,katherine myers,2014-07-22,myers,2014-08-23,2016-06-28,katherine myers,1.0,1.8333334,katherine,1551,myers,applicant->employee,104
+jennifer,jennifer campbell,2014-07-30,campbell,2018-06-14,2021-03-31,andrew campbell,0.725,2.75,andrew,1424,campbell,applicant->employee,105
+rebecca,rebecca rogers,2014-08-05,perez,2017-09-02,2021-03-31,rebecca perez,0.7200000047683716,3.5,rebecca,1049,rogers,applicant->employee,106
+timothy,timothy campbell,2014-08-06,campbell,2014-09-26,2017-06-08,tim campbell,0.8642857074737549,2.6666667,tim,1927,campbell,applicant->employee,107
+nicole,nicole gomez,2014-08-07,gomez,2014-09-06,2016-08-23,nicole gomez,1.0,1.9166666,nicole,1975,gomez,applicant->employee,108
+timothy,timothy baker,2014-08-12,baker,2014-10-13,2017-05-01,timothy baker,1.0,2.5,timothy,1085,baker,applicant->employee,109
+gary,gary anderson,2014-08-12,anderson,2019-10-09,2021-03-31,carolyn anderson,0.8357142925262451,1.4166666,carolyn,1914,anderson,applicant->employee,110
+mary,mary williams,2014-08-17,williams,2017-03-22,2019-02-28,mark williams,0.9,1.9166666,mark,1109,williams,applicant->employee,111
+larry,larry brooks,2014-08-19,brooks,2019-11-28,2020-02-28,mary brooks,0.8099999904632569,0.25,mary,1188,brooks,applicant->employee,112
+melissa,melissa anderson,2014-08-25,anderson,2014-10-22,2017-05-22,melissa anderson,1.0,2.5833333,melissa,1135,anderson,applicant->employee,113
+brenda,brenda barnes,2014-08-26,barnes,2017-09-26,2021-03-31,donna barnes,0.7599999904632568,3.5,donna,1831,barnes,applicant->employee,114
+benjamin,benjamin gutierrez,2014-08-28,torres,2019-04-18,2021-03-31,benjamin torres,0.7444444417953491,1.9166666,benjamin,1154,gutierrez,applicant->employee,115
+helen,helen reyes,2014-08-30,sanders,2017-08-13,2018-01-15,helen sanders,0.7742857217788697,0.41666666,helen,1801,reyes,applicant->employee,116
+bill,bill morris,2014-09-11,morris,2014-12-01,2016-02-28,bill morris,1.0,1.1666666,bill,1823,morris,applicant->employee,117
+george,george gutierrez,2014-09-15,gutierrez,2016-09-10,2017-02-14,gregory gutierrez,0.8714285612106323,0.41666666,gregory,1083,gutierrez,applicant->employee,118
+jason,jason perez,2014-09-19,perez,2017-10-26,2018-09-02,jason perez,1.0,0.8333333,jason,1146,perez,applicant->employee,119
+barbara,barbara price,2014-09-28,price,2019-09-05,2021-03-31,margaret price,0.7428571462631226,1.5,margaret,1035,price,applicant->employee,120
+jonathan,jonathan moore,2014-09-28,moore,2014-11-02,2015-04-02,jonathan moore,1.0,0.41666666,jonathan,1330,moore,applicant->employee,121
+christopher,christopher carter,2014-10-04,carter,2017-06-26,2021-03-31,christopher carter,1.0,3.75,christopher,1193,carter,applicant->employee,122
+stephanie,stephanie fisher,2014-10-05,fisher,2017-03-03,2019-09-15,joseph fisher,0.7944444417953491,2.5,joseph,1338,fisher,applicant->employee,123
+katherine,katherine cruz,2014-10-07,cruz,2014-12-02,2016-03-03,katherine cruz,1.0,1.25,katherine,1694,cruz,applicant->employee,124
+jack,jack lee,2014-10-07,lee,2014-12-22,2017-07-23,jack lee,1.0,2.5833333,jack,1920,lee,applicant->employee,125
+beth,beth lee,2014-10-30,lee,2015-01-23,2016-03-15,beth lee,1.0,1.0833334,beth,1750,lee,applicant->employee,126
+kim,kim gutierrez hamilton,2014-11-03,gutierrez hamilton,2017-04-24,2018-10-10,kim gutierrez hamilton,1.0,1.4166666,kim,1456,gutierrez hamilton,applicant->employee,127
+karen,karen ross,2014-11-11,scott,2019-03-10,2021-03-31,karen scott,0.7299999952316284,2.0,karen,1717,ross,applicant->employee,128
+barbara,barbara young,2014-11-23,young,2017-08-27,2019-01-20,brian young,0.8200000047683715,1.3333334,brian,1748,young,applicant->employee,129
+samuel,samuel collins,2014-11-24,collins,2014-11-25,2015-10-23,samuel collins,1.0,0.8333333,samuel,1074,collins,applicant->employee,130
+richard,richard foster-coleman,2014-11-26,foster coleman,2015-01-16,2016-12-12,richard foster coleman,0.9714285612106324,1.8333334,richard,1725,foster-coleman,applicant->employee,131
+donald,donald gray gibson,2014-11-30,gray-gibson,2015-01-06,2016-08-13,donald gray-gibson,0.9636363744735718,1.5833334,donald,1617,gray gibson,applicant->employee,132
+janet,janet powell-jordan,2014-12-06,powell jordan,2017-07-31,2019-09-16,janet powell jordan,0.9692307710647583,2.0833333,janet,1358,powell-jordan,applicant->employee,133
+donna,donna myers,2014-12-07,myers,2017-09-09,2019-06-07,donna myers,1.0,1.6666666,donna,1437,myers,applicant->employee,134
+anna,anna bailey,2014-12-08,bailey,2014-12-16,2017-02-21,anna bailey,1.0,2.1666667,anna,1666,bailey,applicant->employee,135
+amy,amy ortiz,2014-12-12,ortiz,2017-08-14,2021-03-31,mary ortiz,0.8500000000000001,3.5833333,mary,1448,ortiz,applicant->employee,136
+ken,ken sullivan-gibson,2014-12-21,sullivan-gibson,2015-01-01,2017-01-19,ken sullivan-gibson,1.0,2.0,ken,1691,sullivan-gibson,applicant->employee,137
+dorothy,dorothy wright-simmons,2014-12-22,wright simmons,2015-01-21,2017-08-17,dorothy wright simmons,0.9714285612106324,2.5,dorothy,1547,wright-simmons,applicant->employee,138
+shirley,shirley campbell,2014-12-25,chavez,2019-12-26,2021-03-31,shirley chavez,0.775,1.25,shirley,1016,campbell,applicant->employee,139
+debra,debra reed,2014-12-30,edwards,2016-04-28,2018-04-29,debra edwards,0.8142857074737548,2.0,debra,1546,reed,applicant->employee,140
+kim,kim smith-coleman,2015-01-02,smith-coleman,2015-03-12,2015-07-27,kim smith-coleman,1.0,0.33333334,kim,1644,smith-coleman,applicant->employee,141
+christopher,christopher hall-graham,2015-01-03,hall-graham,2017-08-05,2021-03-31,christopher hall-graham,1.0,3.5833333,christopher,1890,hall-graham,applicant->employee,142
+donald,donald hill,2015-01-10,hill,2015-02-09,2017-09-30,donald hill,1.0,2.5833333,donald,1275,hill,applicant->employee,143
+amanda,amanda walker,2015-01-10,walker,2018-09-19,2019-12-03,raymond walker,0.8142857074737548,1.1666666,raymond,1056,walker,applicant->employee,144
+bill,bill edwards,2015-01-20,edwards,2015-02-22,2016-11-17,william edwards,0.7642857074737549,1.6666666,william,1199,edwards,applicant->employee,145
+stephen,stephen diaz,2015-02-01,diaz,2019-01-03,2021-03-31,christine diaz,0.782539677619934,2.1666667,christine,1926,diaz,applicant->employee,146
+melissa,melissa ward,2015-02-05,ward,2015-03-13,2016-07-31,melissa ward,1.0,1.3333334,melissa,1702,ward,applicant->employee,147
+jonathan,jonathan davis,2015-02-14,richardson,2019-09-01,2020-01-13,jonathan richardson,0.7400000095367432,0.33333334,jonathan,1367,davis,applicant->employee,148
+greg,greg clark,2015-02-18,clark,2015-04-19,2016-06-06,gregory clark,0.8928571462631225,1.0833334,gregory,1244,clark,applicant->employee,149
+laura,laura ortiz,2015-02-23,ortiz,2017-08-14,2021-03-31,mary ortiz,0.7200000047683716,3.5833333,mary,1448,ortiz,applicant->employee,150
+jack,jack russell,2015-03-09,russell,2015-04-25,2017-08-29,jack russell,1.0,2.3333333,jack,1568,russell,applicant->employee,151
+susan,susan price,2015-03-16,price,2015-06-07,2018-01-13,susan price,1.0,2.5833333,susan,1301,price,applicant->employee,152
+brenda,brenda bell-gonzales,2015-03-17,bell gonzales,2015-04-15,2015-06-21,brenda bell gonzales,0.9692307710647583,0.16666667,brenda,1452,bell-gonzales,applicant->employee,153
+paul,paul martinez,2015-03-17,martinez,2015-04-07,2016-02-07,paul martinez,1.0,0.8333333,paul,1572,martinez,applicant->employee,154
+christopher,christopher adams patterson,2015-03-21,adams patterson,2017-06-18,2019-11-05,christopher adams patterson,1.0,2.3333333,christopher,1394,adams patterson,applicant->employee,155
+brian,brian hill,2015-03-23,hill,2017-07-15,2021-03-31,brian hill,1.0,3.6666667,brian,1709,hill,applicant->employee,156
+donna,donna taylor,2015-03-31,taylor,2015-04-26,2017-07-20,donna taylor,1.0,2.1666667,donna,1961,taylor,applicant->employee,157
+kim,kim butler,2015-04-08,butler,2015-06-24,2016-07-26,kim butler,1.0,1.0833334,kim,1240,butler,applicant->employee,158
+cynthia,cynthia hernandez,2015-04-08,hernandez,2015-06-24,2016-11-13,cynthia hernandez,1.0,1.3333334,cynthia,1246,hernandez,applicant->employee,159
+katherine,katherine russell-alexander,2015-04-21,russell-alexander,2015-06-28,2015-12-29,katherine russell-alexander,1.0,0.5,katherine,1977,russell-alexander,applicant->employee,160
+melissa,melissa jones,2015-04-25,jones,2019-11-24,2021-03-31,emma jones,0.7857142925262451,1.3333334,emma,1762,jones,applicant->employee,161
+steven,steven stewart,2015-05-12,flores,2016-05-18,2018-02-17,steven flores,0.6857142806053161,1.6666666,steven,1286,stewart,applicant->employee,162
+donna,donna flores,2015-05-30,morales,2019-02-03,2021-03-31,donna morales,0.8095238208770752,2.0833333,donna,1415,flores,applicant->employee,163
+kathleen,kathleen lee,2015-06-02,lee,2016-06-21,2017-09-18,elizabeth lee,0.6833333253860474,1.1666666,elizabeth,1750,lee,applicant->employee,164
+patrick,patrick young,2015-06-02,young,2018-03-13,2021-03-31,carol young,0.7057142972946167,3.0,carol,1661,young,applicant->employee,165
+susan,susan perry,2015-06-10,perry,2015-07-12,2017-12-10,susan perry,1.0,2.3333333,susan,1957,perry,applicant->employee,166
+carol,carol sanchez,2015-06-14,sanchez,2017-07-08,2018-09-12,carolyn sanchez,0.9428571462631226,1.1666666,carolyn,1560,sanchez,applicant->employee,167
+kevin,kevin lewis,2015-06-15,phillips,2018-04-08,2018-09-24,kevin phillips,0.7950000047683716,0.41666666,kevin,1441,lewis,applicant->employee,168
+christopher,christopher reyes,2015-06-16,reyes,2017-08-11,2019-10-25,christopher reyes,1.0,2.1666667,christopher,1102,reyes,applicant->employee,169
+greg,greg cox,2015-06-18,cox,2016-12-10,2018-10-26,greg cox,1.0,1.8333334,greg,1997,cox,applicant->employee,170
+richard,richard perry,2015-06-22,perry,2015-07-03,2017-05-09,richard perry,1.0,1.8333334,richard,1202,perry,applicant->employee,171
+david,david price,2015-06-29,price,2015-09-04,2018-01-22,david price,1.0,2.3333333,david,1780,price,applicant->employee,172
+timothy,timothy james,2015-06-30,james,2015-09-01,2017-07-29,timothy james,1.0,1.8333334,timothy,1303,james,applicant->employee,173
+beth,beth young,2015-07-05,young,2015-07-11,2016-11-16,beth young,1.0,1.3333334,beth,1295,young,applicant->employee,174
+anthony,anthony jackson,2015-07-05,jackson,2015-09-03,2018-02-24,anthony jackson,1.0,2.4166667,anthony,1969,jackson,applicant->employee,175
+robert,robert rivera,2015-07-08,rivera,2015-07-28,2017-06-22,robert rivera,1.0,1.8333334,robert,1436,rivera,applicant->employee,176
+sharon,sharon cruz,2015-07-13,cruz,2015-08-18,2016-09-01,sharon cruz,1.0,1.0,sharon,1200,cruz,applicant->employee,177
+ruth,ruth williams,2015-07-17,phillips,2018-02-28,2021-03-31,ruth phillips,0.85,3.0833333,ruth,1033,williams,applicant->employee,178
+angela,angela walker,2015-07-19,walker,2015-07-29,2017-10-16,angela walker,1.0,2.1666667,angela,1169,walker,applicant->employee,179
+deborah,deborah cruz,2015-07-24,cruz,2015-09-14,2018-06-08,deborah cruz,1.0,2.6666667,deborah,1055,cruz,applicant->employee,180
+timothy,timothy rodriguez,2015-07-25,rodriguez,2015-09-29,2017-06-30,tim rodriguez,0.8642857074737549,1.75,tim,1403,rodriguez,applicant->employee,181
+sharon,sharon richardson,2015-08-07,richardson,2016-09-15,2018-04-10,stephanie richardson,0.8222222328186035,1.5,stephanie,1845,richardson,applicant->employee,182
+jeffrey,jeffrey rogers,2015-08-08,rogers,2015-09-29,2017-07-10,jeffrey rogers,1.0,1.75,jeffrey,1964,rogers,applicant->employee,183
+nancy,nancy gonzalez,2015-08-09,gonzalez,2015-09-20,2018-05-26,nancy gonzalez,1.0,2.6666667,nancy,1277,gonzalez,applicant->employee,184
+catherine,catherine taylor,2015-08-10,taylor,2018-09-27,2021-03-31,michael taylor,0.7761904716491699,2.5,michael,1718,taylor,applicant->employee,185
+rachel,rachel morales,2015-08-10,morales,2015-09-09,2017-10-03,rachel morales,1.0,2.0,rachel,1898,morales,applicant->employee,186
+pam,pam jackson,2015-08-13,jackson,2015-09-11,2016-05-09,pam jackson,1.0,0.5833333,pam,1112,jackson,applicant->employee,187
+kim,kim nelson,2015-08-16,nelson,2016-05-12,2018-09-23,kim nelson,1.0,2.3333333,kim,1435,nelson,applicant->employee,188
+pam,pam nelson,2015-08-19,nelson,2016-05-21,2018-07-22,pam nelson,1.0,2.1666667,pam,1044,nelson,applicant->employee,189
+patrick,patrick wright,2015-08-24,wright,2015-08-31,2018-05-07,patrick wright,1.0,2.6666667,patrick,1929,wright,applicant->employee,190
+carol,carol ramirez,2015-08-27,ramirez,2018-01-15,2019-10-25,carol ramirez,1.0,1.75,carol,1812,ramirez,applicant->employee,191
+edward,edward bell ramos,2015-08-30,bell ramos,2015-09-24,2017-10-02,edward bell ramos,1.0,2.0,edward,1629,bell ramos,applicant->employee,192
+dennis,dennis collins,2015-08-30,williams,2019-12-16,2021-03-31,dennis williams,0.7892857074737549,1.25,dennis,1357,collins,applicant->employee,193
+jason,jason powell,2015-09-10,powell,2015-11-06,2018-01-28,jason powell,1.0,2.1666667,jason,1608,powell,applicant->employee,194
+alexander,alexander butler,2015-09-15,butler,2015-09-24,2017-12-04,alexander butler,1.0,2.1666667,alexander,1665,butler,applicant->employee,195
+nicholas,nicholas edwards,2015-09-24,edwards,2015-10-02,2017-10-28,nicholas edwards,1.0,2.0,nicholas,1704,edwards,applicant->employee,196
+patrick,patrick flores,2015-09-26,flores,2015-11-03,2018-04-12,patrick flores,1.0,2.4166667,patrick,1586,flores,applicant->employee,197
+helen,helen miller,2015-10-14,miller,2018-01-23,2019-09-06,kenneth miller,0.8028571367263795,1.5833334,kenneth,1647,miller,applicant->employee,198
+susan,susan hall,2015-10-15,white wallace,2016-07-24,2016-12-17,susan white wallace,0.8269230842590332,0.33333334,susan,1026,hall,applicant->employee,199
+emma,emma flores-graham,2015-10-19,flores graham,2015-11-21,2017-09-05,emma flores graham,0.9692307710647583,1.75,emma,1331,flores-graham,applicant->employee,200
+betty,betty gomez,2015-10-22,moore,2018-02-01,2021-03-31,betty moore,0.7799999952316284,3.0833333,betty,1645,gomez,applicant->employee,201
+brenda,brenda nguyen,2015-10-23,nguyen,2015-12-04,2017-06-26,brenda nguyen,1.0,1.5,brenda,1563,nguyen,applicant->employee,202
+ken,ken stewart-chavez,2015-10-30,stewart-chavez,2017-07-16,2021-03-31,ken stewart-chavez,1.0,3.6666667,ken,1810,stewart-chavez,applicant->employee,203
+lisa,lisa cox,2015-11-01,cox,2015-12-28,2018-06-02,lisa cox,1.0,2.4166667,lisa,1615,cox,applicant->employee,204
+patrick,patrick walker,2015-11-04,walker,2018-06-03,2018-10-22,patrick walker,1.0,0.33333334,patrick,1591,walker,applicant->employee,205
+nicole,nicole diaz,2015-11-06,diaz,2016-01-20,2017-10-13,nicole diaz,1.0,1.6666666,nicole,1552,diaz,applicant->employee,206
+michael,michael reed,2015-11-10,reed,2019-01-05,2021-03-31,helen reed,0.795714282989502,2.1666667,helen,1558,reed,applicant->employee,207
+samantha,samantha watson,2015-11-10,watson,2016-01-25,2017-12-27,samantha watson,1.0,1.9166666,samantha,1816,watson,applicant->employee,208
+carol,carol wright,2015-11-17,wright,2015-12-20,2017-07-07,carol wright,1.0,1.5,carol,1677,wright,applicant->employee,209
+ken,ken baker,2015-11-18,baker,2016-01-25,2016-11-20,ken baker,1.0,0.75,ken,1553,baker,applicant->employee,210
+rachel,rachel brooks-hamilton,2015-11-18,brooks hamilton,2018-10-17,2019-08-17,rachel brooks hamilton,0.9733333349227905,0.8333333,rachel,1836,brooks-hamilton,applicant->employee,211
+jonathan,jonathan ramirez,2015-11-19,ramirez,2015-11-21,2017-08-27,jonathan ramirez,1.0,1.75,jonathan,1587,ramirez,applicant->employee,212
+angela,angela diaz,2015-11-19,diaz,2015-11-27,2017-11-28,angela diaz,1.0,2.0,angela,1865,diaz,applicant->employee,213
+nicole,nicole price,2015-11-23,price,2016-01-14,2018-03-31,nicole price,1.0,2.1666667,nicole,1652,price,applicant->employee,214
+kim,kim perry,2015-11-24,perry,2017-10-11,2018-06-01,kim perry,1.0,0.5833333,kim,1298,perry,applicant->employee,215
+kim,kim reyes,2015-11-27,reyes,2015-12-08,2017-08-14,kimberly reyes,0.875,1.6666666,kimberly,1361,reyes,applicant->employee,216
+ronald,ronald evans,2015-12-01,evans,2018-12-25,2021-03-31,carol evans,0.7933333396911622,2.25,carol,1934,evans,applicant->employee,217
+alexander,alexander sanchez,2015-12-01,sanchez,2016-01-07,2017-08-01,alexander sanchez,1.0,1.5,alexander,1760,sanchez,applicant->employee,218
+george,george miller,2015-12-02,miller,2016-02-14,2017-12-23,george miller,1.0,1.8333334,george,1799,miller,applicant->employee,219
+christopher,christopher clark,2015-12-04,clark,2016-01-31,2018-01-02,chris clark,0.8772727251052856,1.9166666,chris,1642,clark,applicant->employee,220
+nicholas,nicholas peterson-cole,2015-12-05,peterson cole,2015-12-29,2016-07-15,nicholas peterson cole,0.9692307710647583,0.5,nicholas,1935,peterson-cole,applicant->employee,221
+donna,donna wright bryant,2015-12-15,wright-bryant,2015-12-17,2018-06-12,donna wright-bryant,0.9692307710647583,2.4166667,donna,1175,wright bryant,applicant->employee,222
+nancy,nancy james,2015-12-24,james,2016-01-10,2017-01-10,nancy james,1.0,1.0,nancy,1031,james,applicant->employee,223
+robert,robert thompson,2015-12-24,thompson,2016-01-27,2017-09-11,robert thompson,1.0,1.5833334,robert,1959,thompson,applicant->employee,224
+carol,carol perry,2015-12-29,perry,2016-03-09,2018-06-16,carol perry,1.0,2.25,carol,1195,perry,applicant->employee,225
+bill,bill parker,2016-01-03,perry,2016-11-11,2018-07-02,bill perry,0.7933333396911622,1.5833334,bill,1119,parker,applicant->employee,226
+michelle,michelle smith,2016-01-10,smith,2016-02-23,2018-06-03,michelle smith,1.0,2.25,michelle,1036,smith,applicant->employee,227
+jeffrey,jeffrey collins-cole,2016-01-22,collins cole,2016-02-27,2018-03-24,jeffrey collins cole,0.9666666746139526,2.0,jeffrey,1758,collins-cole,applicant->employee,228
+patricia,patricia perry,2016-01-24,perry,2018-03-30,2021-03-31,patricia perry,1.0,3.0,patricia,1876,perry,applicant->employee,229
+emily,emily carter,2016-01-25,carter,2017-09-17,2021-03-31,william carter,0.7628571510314941,3.5,william,1711,carter,applicant->employee,230
+jack,jack miller,2016-01-29,myers,2016-12-16,2018-06-02,jack myers,0.8200000047683715,1.4166666,jack,1159,miller,applicant->employee,231
+samuel,samuel brown,2016-01-29,brown,2016-02-18,2018-02-03,samuel brown,1.0,1.9166666,samuel,1873,brown,applicant->employee,232
+amanda,amanda cruz,2016-01-31,cruz,2016-03-25,2017-08-18,amanda cruz,1.0,1.3333334,amanda,1693,cruz,applicant->employee,233
+matthew,matthew white-griffin,2016-02-01,white griffin,2018-06-16,2020-03-06,matthew white griffin,0.9692307710647583,1.6666666,matthew,1548,white-griffin,applicant->employee,234
+beth,beth peterson,2016-02-03,peterson,2018-11-09,2021-03-31,beth peterson,1.0,2.3333333,beth,1784,peterson,applicant->employee,235
+pam,pam nguyen,2016-02-04,nguyen,2016-04-30,2018-10-05,pam nguyen,1.0,2.4166667,pam,1899,nguyen,applicant->employee,236
+jennifer,jennifer collins,2016-02-06,collins,2019-10-13,2021-03-31,christine collins,0.7611111164093018,1.4166666,christine,1571,collins,applicant->employee,237
+brian,brian lee-west,2016-02-13,lee west,2016-04-25,2018-12-25,brian lee west,0.9500000000000001,2.6666667,brian,1025,lee-west,applicant->employee,238
+shirley,shirley rodriguez,2016-02-19,rodriguez,2016-03-29,2017-12-25,shirley rodriguez,1.0,1.6666666,shirley,1502,rodriguez,applicant->employee,239
+bill,bill garcia,2016-02-21,griffin,2016-12-13,2018-06-21,bill griffin,0.7642857074737549,1.5,bill,1199,garcia,applicant->employee,240
+lisa,lisa diaz,2016-02-21,diaz,2016-02-23,2018-07-09,lisa diaz,1.0,2.3333333,lisa,1533,diaz,applicant->employee,241
+david,david howard,2016-03-01,howard,2016-03-02,2018-07-14,david howard,1.0,2.3333333,david,1703,howard,applicant->employee,242
+brenda,brenda rivera,2016-03-02,rivera,2016-03-20,2018-04-28,brenda rivera,1.0,2.0833333,brenda,1939,rivera,applicant->employee,243
+patricia,patricia martinez,2016-03-08,martinez,2016-04-14,2017-01-05,patricia martinez,1.0,0.6666667,patricia,1766,martinez,applicant->employee,244
+christopher,christopher richardson,2016-03-09,richardson,2016-04-09,2017-12-01,christopher richardson,1.0,1.5833334,christopher,1509,richardson,applicant->employee,245
+jacob,jacob murphy,2016-03-12,murphy,2016-12-31,2017-11-20,jacob murphy,1.0,0.8333333,jacob,1161,murphy,applicant->employee,246
+carol,carol long,2016-03-12,young,2018-03-13,2021-03-31,carol young,0.8700000047683716,3.0,carol,1661,long,applicant->employee,247
+christopher,christopher torres,2016-03-14,torres,2016-04-03,2018-02-10,chris torres,0.8772727251052856,1.8333334,chris,1316,torres,applicant->employee,248
+sarah,sarah morris,2016-03-14,morris,2016-05-12,2018-05-01,sarah morris,1.0,1.9166666,sarah,1539,morris,applicant->employee,249
+ryan,ryan garcia,2016-03-16,garcia,2016-04-22,2017-11-01,ryan garcia,1.0,1.5,ryan,1881,garcia,applicant->employee,250
+richard,richard bennett,2016-03-25,bennett,2016-04-13,2017-07-24,richard bennett,1.0,1.25,richard,1003,bennett,applicant->employee,251
+ken,ken robinson,2016-03-25,robinson,2018-12-01,2021-03-31,ken robinson,1.0,2.25,ken,1915,robinson,applicant->employee,252
+paul,paul fisher,2016-03-27,fisher,2016-06-24,2017-11-05,paul fisher,1.0,1.3333334,paul,1478,fisher,applicant->employee,253
+frank,frank lopez,2016-04-02,lopez,2016-05-04,2018-07-03,frank lopez,1.0,2.0833333,frank,1409,lopez,applicant->employee,254
+pam,pam powell,2016-04-02,powell,2016-05-03,2018-12-30,pamela powell,0.8833333253860474,2.5833333,pamela,1804,powell,applicant->employee,255
+brenda,brenda diaz,2016-04-05,diaz,2016-06-05,2018-06-13,brenda diaz,1.0,2.0,brenda,1834,diaz,applicant->employee,256
+edward,edward ross,2016-04-06,ross,2016-05-09,2018-08-04,edward ross,1.0,2.1666667,edward,1664,ross,applicant->employee,257
+beth,beth gutierrez griffin,2016-04-09,gutierrez griffin,2018-01-29,2021-03-31,beth gutierrez griffin,1.0,3.1666667,beth,1043,gutierrez griffin,applicant->employee,258
+steven,steven flores,2016-04-18,flores,2016-05-18,2018-02-17,steven flores,1.0,1.6666666,steven,1286,flores,applicant->employee,259
+ken,ken carter,2016-04-20,carter,2018-09-12,2021-03-31,ken carter,1.0,2.5,ken,1683,carter,applicant->employee,260
+sarah,sarah collins,2016-04-27,collins,2016-07-05,2017-06-21,sarah collins,1.0,0.9166667,sarah,1609,collins,applicant->employee,261
+mark,mark price,2016-04-29,price,2016-05-17,2017-09-09,mark price,1.0,1.25,mark,1626,price,applicant->employee,262
+timothy,timothy kelly,2016-04-29,kelly,2016-06-18,2017-10-04,tim kelly,0.8642857074737549,1.25,tim,1707,kelly,applicant->employee,263
+david,david jones,2016-04-30,jones,2016-05-02,2016-10-05,david jones,1.0,0.41666666,david,1371,jones,applicant->employee,264
+michelle,michelle reyes,2016-04-30,myers,2019-10-22,2021-03-31,michelle myers,0.8599999904632569,1.4166666,michelle,1874,reyes,applicant->employee,265
+nicholas,nicholas anderson,2016-05-01,edwards,2015-10-02,2017-10-28,nicholas edwards,0.7964285612106323,2.0,nicholas,1704,anderson,applicant->employee,266
+scott,scott morales,2016-05-04,morales,2016-05-30,2018-02-13,scott morales,1.0,1.6666666,scott,1271,morales,applicant->employee,267
+greg,greg russell jordan,2016-05-07,russell jordan,2016-06-16,2019-01-31,greg russell jordan,1.0,2.5833333,greg,1429,russell jordan,applicant->employee,268
+ruth,ruth jenkins,2016-05-07,jenkins,2016-06-29,2019-01-26,ruth jenkins,1.0,2.5,ruth,1491,jenkins,applicant->employee,269
+jason,jason martin,2016-05-13,martin,2016-07-03,2018-06-28,jason martin,1.0,1.9166666,jason,1140,martin,applicant->employee,270
+thomas,thomas murphy,2016-05-15,murphy,2016-07-24,2017-06-15,thomas murphy,1.0,0.8333333,thomas,1822,murphy,applicant->employee,271
+susan,susan white wallace,2016-05-28,white wallace,2016-07-24,2016-12-17,susan white wallace,1.0,0.33333334,susan,1026,white wallace,applicant->employee,272
+emma,emma allen,2016-05-29,flores graham,2015-11-21,2017-09-05,emma flores graham,0.7215384721755982,1.75,emma,1331,allen,applicant->employee,273
+matthew,matthew thompson,2016-05-29,thompson,2016-06-03,2017-12-18,matthew thompson,1.0,1.5,matthew,1846,thompson,applicant->employee,274
+greg,greg carter,2016-06-02,carter,2016-07-21,2017-07-29,greg carter,1.0,1.0,greg,1391,carter,applicant->employee,275
+angela,angela ortiz-patterson,2016-06-06,ortiz-patterson,2016-08-20,2019-02-21,angela ortiz-patterson,1.0,2.5,angela,1542,ortiz-patterson,applicant->employee,276
+carol,carol johnson,2016-06-07,johnson,2017-12-12,2018-12-06,ronald johnson,0.7933333396911622,0.9166667,ronald,1442,johnson,applicant->employee,277
+ken,ken perez-ramos,2016-06-12,perez-ramos,2018-12-03,2021-03-31,ken perez-ramos,1.0,2.25,ken,1151,perez-ramos,applicant->employee,278
+patrick,patrick martinez,2016-06-13,martinez,2016-07-12,2019-03-19,patrick martinez,1.0,2.6666667,patrick,1583,martinez,applicant->employee,279
+kim,kim moore,2016-06-16,moore,2016-07-26,2017-12-24,kim moore,1.0,1.3333334,kim,1217,moore,applicant->employee,280
+paul,paul cooper-kim,2016-06-22,cooper kim,2016-07-16,2018-02-28,paul cooper kim,0.9599999904632569,1.5833334,paul,1063,cooper-kim,applicant->employee,281
+kim,kim perez griffin,2016-06-22,perez griffin,2017-10-29,2019-12-29,kim perez griffin,1.0,2.1666667,kim,1134,perez griffin,applicant->employee,282
+sandra,sandra rodriguez-chavez,2016-06-27,rodriguez chavez,2016-07-17,2018-11-11,sandra rodriguez chavez,0.975,2.25,sandra,1908,rodriguez-chavez,applicant->employee,283
+daniel,daniel murphy,2016-07-01,murphy,2016-08-05,2018-05-21,daniel murphy,1.0,1.75,daniel,1611,murphy,applicant->employee,284
+emily,emily cruz,2016-07-04,cruz,2016-07-26,2018-04-27,emily cruz,1.0,1.75,emily,1233,cruz,applicant->employee,285
+beth,beth butler,2016-07-04,butler,2016-08-25,2018-09-24,beth butler,1.0,2.0,beth,1805,butler,applicant->employee,286
+frank,frank richardson,2016-07-05,richardson,2016-08-17,2018-06-04,frank richardson,1.0,1.75,frank,1392,richardson,applicant->employee,287
+kim,kim hernandez,2016-07-11,hernandez,2016-07-19,2016-12-18,kimberly hernandez,0.875,0.33333334,kimberly,1093,hernandez,applicant->employee,288
+jeffrey,jeffrey morales,2016-07-11,miller,2019-06-24,2021-03-31,jeffrey miller,0.7809523820877076,1.75,jeffrey,1091,morales,applicant->employee,289
+timothy,timothy roberts alexander,2016-07-12,roberts alexander,2018-04-08,2021-03-31,timothy roberts alexander,1.0,2.9166667,timothy,1947,roberts alexander,applicant->employee,290
+timothy,timothy collins,2016-07-14,collins,2018-07-05,2019-06-06,timothy collins,1.0,0.9166667,timothy,1459,collins,applicant->employee,291
+raymond,raymond sanders,2016-07-17,sanders,2016-08-27,2019-01-10,raymond sanders,1.0,2.3333333,raymond,1844,sanders,applicant->employee,292
+jack,jack brown,2016-07-19,brown,2016-09-18,2018-06-07,jack brown,1.0,1.6666666,jack,1103,brown,applicant->employee,293
+greg,greg hall,2016-07-19,hall,2016-08-27,2018-09-28,gregory hall,0.8928571462631225,2.0833333,gregory,1669,hall,applicant->employee,294
+susan,susan wright,2016-07-21,wright,2018-07-27,2021-03-31,susan wright,1.0,2.6666667,susan,1945,wright,applicant->employee,295
+greg,greg gutierrez,2016-07-22,gutierrez,2017-03-04,2018-12-12,greg gutierrez,1.0,1.75,greg,1083,gutierrez,applicant->employee,296
+beth,beth martin hayes,2016-07-24,martin hayes,2016-08-21,2017-09-10,beth martin hayes,1.0,1.0,beth,1921,martin hayes,applicant->employee,297
+larry,larry walker,2016-07-25,walker,2016-09-26,2019-04-28,larry walker,1.0,2.5833333,larry,1167,walker,applicant->employee,298
+andrew,andrew howard,2016-07-25,howard,2016-09-29,2019-05-28,andrew howard,1.0,2.5833333,andrew,1634,howard,applicant->employee,299
+kim,kim lee,2016-07-26,cole,2017-02-12,2019-05-15,kim cole,0.8,2.25,kim,1093,lee,applicant->employee,300
+patricia,patricia howard,2016-07-28,howard,2016-08-14,2018-10-23,patricia howard,1.0,2.1666667,patricia,1381,howard,applicant->employee,301
+jacob,jacob fisher graham,2016-07-31,fisher-graham,2019-05-12,2019-10-06,jacob fisher-graham,0.9692307710647583,0.33333334,jacob,1681,fisher graham,applicant->employee,302
+stephanie,stephanie richardson,2016-08-05,richardson,2016-09-15,2018-04-10,stephanie richardson,1.0,1.5,stephanie,1845,richardson,applicant->employee,303
+janet,janet price,2016-08-07,price,2016-10-11,2018-09-10,janet price,1.0,1.8333334,janet,1793,price,applicant->employee,304
+ken,ken butler hayes,2016-08-08,butler hayes,2018-05-23,2018-10-24,ken butler hayes,1.0,0.41666666,ken,1574,butler hayes,applicant->employee,305
+timothy,timothy clark-henderson,2016-08-09,clark-henderson,2018-04-16,2021-03-31,timothy clark-henderson,1.0,2.9166667,timothy,1675,clark-henderson,applicant->employee,306
+greg,greg garcia,2016-08-11,garcia,2016-10-15,2017-08-31,gregory garcia,0.8928571462631225,0.8333333,gregory,1360,garcia,applicant->employee,307
+christopher,christopher foster,2016-08-14,foster,2016-10-02,2018-11-28,chris foster,0.8772727251052856,2.0833333,chris,1543,foster,applicant->employee,308
+andrew,andrew scott,2016-08-18,scott,2016-10-10,2018-10-18,andrew scott,1.0,2.0,andrew,1882,scott,applicant->employee,309
+pam,pam morales,2016-08-20,morales,2016-10-07,2017-09-08,pamela morales,0.8833333253860474,0.9166667,pamela,1879,morales,applicant->employee,310
+ken,ken smith wallace,2016-08-21,smith wallace,2016-10-21,2017-07-20,ken smith wallace,1.0,0.6666667,ken,1790,smith wallace,applicant->employee,311
+richard,richard jenkins,2016-08-22,jenkins,2016-11-07,2017-10-08,richard jenkins,1.0,0.9166667,richard,1525,jenkins,applicant->employee,312
+pam,pam richardson,2016-08-24,richardson,2016-10-25,2017-07-03,pam richardson,1.0,0.6666667,pam,1434,richardson,applicant->employee,313
+nicholas,nicholas fisher,2016-08-25,fisher,2016-09-22,2018-12-25,nicholas fisher,1.0,2.25,nicholas,1902,fisher,applicant->employee,314
+timothy,timothy wilson,2016-08-28,gibson,2017-08-07,2021-03-31,timothy gibson,0.8666666746139526,3.5833333,timothy,1403,wilson,applicant->employee,315
+andrew,andrew cruz,2016-08-30,cruz,2017-11-01,2021-03-31,amanda cruz,0.8166666746139526,3.3333333,amanda,1693,cruz,applicant->employee,316
+nancy,nancy phillips,2016-09-03,phillips,2016-11-18,2017-10-02,nancy phillips,1.0,0.8333333,nancy,1377,phillips,applicant->employee,317
+john,john sullivan,2016-09-04,sullivan,2018-11-08,2021-03-31,john sullivan,1.0,2.3333333,john,1009,sullivan,applicant->employee,318
+gary,gary baker,2016-09-08,baker,2020-02-06,2021-03-31,ryan baker,0.8,1.0833334,ryan,1370,baker,applicant->employee,319
+kim,kim brown,2016-09-09,brown,2018-02-28,2021-03-31,kim brown,1.0,3.0833333,kim,1951,brown,applicant->employee,320
+ryan,ryan perry,2016-09-10,perry,2016-12-06,2017-08-08,ryan perry,1.0,0.6666667,ryan,1131,perry,applicant->employee,321
+kathleen,kathleen torres,2016-09-10,torres,2019-01-11,2019-02-15,kathy torres,0.8599999904632568,0.083333336,kathy,1592,torres,applicant->employee,322
+rebecca,rebecca bell,2016-09-11,bell,2016-11-25,2018-11-08,rebecca bell,1.0,1.9166666,rebecca,1054,bell,applicant->employee,323
+stephen,stephen myers,2016-09-11,myers,2016-11-04,2019-04-30,stephen myers,1.0,2.4166667,stephen,1307,myers,applicant->employee,324
+kim,kim peterson,2016-09-13,peterson,2016-10-26,2018-08-23,kimberly peterson,0.875,1.75,kimberly,1120,peterson,applicant->employee,325
+brandon,brandon reyes-simmons,2016-09-13,reyes simmons,2017-09-22,2021-03-31,brandon reyes simmons,0.9692307710647583,3.5,brandon,1710,reyes-simmons,applicant->employee,326
+stephanie,stephanie morales,2016-09-15,morales,2016-09-21,2017-12-12,stephanie morales,1.0,1.1666666,stephanie,1164,morales,applicant->employee,327
+debra,debra perry,2016-09-16,perry,2016-11-05,2018-10-10,debra perry,1.0,1.9166666,debra,1892,perry,applicant->employee,328
+bill,bill perry,2016-09-20,perry,2016-11-11,2018-07-02,bill perry,1.0,1.5833334,bill,1119,perry,applicant->employee,329
+emma,emma wilson-gibson,2016-09-23,wilson gibson,2018-10-31,2019-11-24,emma wilson gibson,0.9692307710647583,1.0,emma,1219,wilson-gibson,applicant->employee,330
+ryan,ryan ramirez,2016-09-26,ramirez,2016-11-15,2019-05-12,ryan ramirez,1.0,2.4166667,ryan,1023,ramirez,applicant->employee,331
+debra,debra gomez chavez,2016-09-27,gomez chavez,2016-11-26,2019-02-16,debra gomez chavez,1.0,2.1666667,debra,1323,gomez chavez,applicant->employee,332
+cynthia,cynthia perry,2016-10-02,perry,2016-12-09,2018-06-27,cynthia perry,1.0,1.5,cynthia,1557,perry,applicant->employee,333
+margaret,margaret cook patterson,2016-10-03,cook-patterson,2016-10-20,2017-07-04,margaret cook-patterson,0.9714285612106324,0.6666667,margaret,1364,cook patterson,applicant->employee,334
+donna,donna morales,2016-10-03,morales,2017-01-01,2018-12-03,donna morales,1.0,1.9166666,donna,1415,morales,applicant->employee,335
+donald,donald barnes,2016-10-05,barnes,2016-12-18,2018-01-21,donald barnes,1.0,1.0833334,donald,1523,barnes,applicant->employee,336
+carolyn,carolyn gray,2016-10-06,gray,2016-12-31,2017-06-01,carolyn gray,1.0,0.41666666,carolyn,1287,gray,applicant->employee,337
+george,george anderson,2016-10-08,nelson,2018-01-10,2018-08-27,george nelson,0.8916666746139527,0.5833333,george,1465,anderson,applicant->employee,338
+greg,greg phillips hamilton,2016-10-10,phillips hamilton,2018-04-30,2018-10-06,greg phillips hamilton,1.0,0.41666666,greg,1447,phillips hamilton,applicant->employee,339
+bill,bill lopez,2016-10-10,lopez,2017-01-06,2018-05-25,bill lopez,1.0,1.3333334,bill,1893,lopez,applicant->employee,340
+kim,kim foster,2016-10-14,foster,2016-12-24,2017-07-30,kim foster,1.0,0.5833333,kim,1794,foster,applicant->employee,341
+rebecca,rebecca collins,2016-10-17,collins,2016-12-05,2018-09-13,rebecca collins,1.0,1.75,rebecca,1393,collins,applicant->employee,342
+pam,pam perry,2016-10-18,perry,2016-11-15,2018-06-19,pam perry,1.0,1.5833334,pam,1475,perry,applicant->employee,343
+paul,paul ward gonzales,2016-10-19,ward-gonzales,2016-11-08,2017-07-07,paul ward-gonzales,0.9692307710647583,0.5833333,paul,1795,ward gonzales,applicant->employee,344
+christopher,christopher phillips-coleman,2016-10-21,phillips-coleman,2017-01-05,2018-01-12,christopher phillips-coleman,1.0,1.0,christopher,1201,phillips-coleman,applicant->employee,345
+michelle,michelle kelly,2016-10-27,kelly,2018-01-27,2021-03-31,eric kelly,0.75,3.1666667,eric,1987,kelly,applicant->employee,346
+jessica,jessica harris,2016-11-03,harris,2016-11-08,2019-05-03,jessica harris,1.0,2.4166667,jessica,1288,harris,applicant->employee,347
+greg,greg thomas,2016-11-03,thomas,2016-12-08,2018-09-08,gregory thomas,0.8928571462631225,1.75,gregory,1579,thomas,applicant->employee,348
+jacob,jacob collins,2016-11-06,mitchell-coleman,2019-04-25,2021-03-31,jacob mitchell-coleman,0.7714285612106324,1.9166666,jacob,1171,collins,applicant->employee,349
+scott,scott smith,2016-11-09,smith,2017-12-10,2021-03-31,scott smith,1.0,3.25,scott,1789,smith,applicant->employee,350
+ken,ken green,2016-11-10,green,2019-06-15,2021-03-31,karen green,0.9200000047683716,1.75,karen,1203,green,applicant->employee,351
+matthew,matthew ross,2016-11-16,myers,2017-02-26,2017-10-17,matthew myers,0.7299999952316284,0.5833333,matthew,1375,ross,applicant->employee,352
+beth,beth morales,2016-11-16,morales,2017-07-27,2021-03-31,beth morales,1.0,3.6666667,beth,1809,morales,applicant->employee,353
+beth,beth stewart west,2016-11-19,stewart west,2016-12-23,2018-02-25,beth stewart west,1.0,1.1666666,beth,1312,stewart west,applicant->employee,354
+ruth,ruth scott,2016-11-21,scott,2017-01-17,2017-06-12,ruth scott,1.0,0.33333334,ruth,1982,scott,applicant->employee,355
+donna,donna gray,2016-11-24,gray,2017-01-16,2018-11-06,donna gray,1.0,1.75,donna,1144,gray,applicant->employee,356
+daniel,daniel richardson,2016-11-27,richardson,2017-01-11,2018-04-16,daniel richardson,1.0,1.25,daniel,1944,richardson,applicant->employee,357
+kathleen,kathleen moore,2016-11-28,moore,2019-02-25,2021-03-31,rachel moore,0.7583333253860474,2.0833333,rachel,1958,moore,applicant->employee,358
+rebecca,rebecca campbell,2016-11-28,campbell,2017-02-24,2019-04-12,rebecca campbell,1.0,2.0833333,rebecca,1658,campbell,applicant->employee,359
+carol,carol ross,2016-11-28,simmons,2017-05-23,2019-09-26,carol simmons,0.7357142925262451,2.3333333,carol,1863,ross,applicant->employee,360
+kim,kim miller,2016-12-10,miller,2017-03-02,2019-10-24,kimberly miller,0.875,2.5833333,kimberly,1726,miller,applicant->employee,361
+matthew,matthew myers,2016-12-11,myers,2017-02-26,2017-10-17,matthew myers,1.0,0.5833333,matthew,1375,myers,applicant->employee,362
+greg,greg sanders-reynolds,2016-12-12,sanders-reynolds,2017-08-11,2021-03-31,greg sanders-reynolds,1.0,3.5833333,greg,1072,sanders-reynolds,applicant->employee,363
+beth,beth carter gonzales,2016-12-15,carter gonzales,2017-01-22,2019-07-26,beth carter gonzales,1.0,2.5,beth,1732,carter gonzales,applicant->employee,364
+charles,charles jenkins,2016-12-16,jenkins,2016-11-07,2017-10-08,richard jenkins,0.8071428537368774,0.9166667,richard,1525,jenkins,applicant->employee,365
+sarah,sarah nguyen-reynolds,2016-12-18,nguyen reynolds,2019-03-27,2019-09-03,sarah nguyen reynolds,0.9733333349227905,0.41666666,sarah,1408,nguyen-reynolds,applicant->employee,366
+richard,richard bell,2016-12-18,cole,2017-01-04,2017-08-30,richard cole,0.75,0.5833333,richard,1725,bell,applicant->employee,367
+david,david edwards,2016-12-19,edwards,2017-01-19,2017-07-28,david edwards,1.0,0.5,david,1738,edwards,applicant->employee,368
+david,david powell,2016-12-22,powell,2017-03-08,2019-11-11,david powell,1.0,2.6666667,david,1472,powell,applicant->employee,369
+angela,angela adams,2016-12-25,adams,2017-03-13,2017-06-24,angela adams,1.0,0.25,angela,1700,adams,applicant->employee,370
+laura,laura morales,2016-12-27,morales,2019-04-07,2021-03-31,laura morales,1.0,1.9166666,laura,1972,morales,applicant->employee,371
+betty,betty collins,2016-12-28,collins,2017-02-16,2019-07-14,betty collins,1.0,2.3333333,betty,1832,collins,applicant->employee,372
+pam,pam reed kim,2016-12-29,reed kim,2017-08-09,2017-11-07,pam reed kim,1.0,0.16666667,pam,1236,reed kim,applicant->employee,373
+benjamin,benjamin torres,2017-01-01,torres,2017-03-29,2019-03-25,benjamin torres,1.0,1.9166666,benjamin,1154,torres,applicant->employee,374
+timothy,timothy ward,2017-01-01,ward,2017-03-25,2019-02-05,timothy ward,1.0,1.8333334,timothy,1744,ward,applicant->employee,375
+jessica,jessica myers,2017-01-08,myers,2017-03-30,2018-12-23,jessica myers,1.0,1.6666666,jessica,1476,myers,applicant->employee,376
+daniel,daniel morris-griffin,2017-01-15,morris-griffin,2017-03-13,2017-12-06,daniel morris-griffin,1.0,0.6666667,daniel,1829,morris-griffin,applicant->employee,377
+christopher,christopher green,2017-01-16,green,2017-01-29,2018-11-03,christopher green,1.0,1.75,christopher,1198,green,applicant->employee,378
+jacob,jacob mitchell coleman,2017-01-17,mitchell-coleman,2019-04-25,2021-03-31,jacob mitchell-coleman,0.975,1.9166666,jacob,1171,mitchell coleman,applicant->employee,379
+susan,susan ross-reynolds,2017-01-19,ross-reynolds,2017-02-11,2019-08-17,susan ross-reynolds,1.0,2.5,susan,1455,ross-reynolds,applicant->employee,380
+emma,emma wright,2017-01-22,wright,2017-04-06,2018-08-01,emma wright,1.0,1.25,emma,1210,wright,applicant->employee,381
+justin,justin lopez,2017-01-22,gonzales,2013-05-12,2014-11-19,justin gonzales,0.7599999904632568,1.5,justin,1310,lopez,applicant->employee,382
+catherine,catherine johnson,2017-01-27,johnson,2018-05-09,2018-06-19,amanda johnson,0.6777777791023254,0.083333336,amanda,1149,johnson,applicant->employee,383
+amanda,amanda baker,2017-01-27,baker,2020-02-06,2021-03-31,ryan baker,0.7333333253860473,1.0833334,ryan,1370,baker,applicant->employee,384
+ronald,ronald young jordan,2017-01-30,young-jordan,2019-03-14,2021-03-31,ronald young-jordan,0.9666666746139526,2.0,ronald,1761,young jordan,applicant->employee,385
+karen,karen young,2017-02-01,young,2017-03-21,2018-04-04,karen young,1.0,1.0,karen,1487,young,applicant->employee,386
+deborah,deborah collins chavez,2017-02-06,collins-chavez,2019-06-11,2021-03-31,deborah collins-chavez,0.9714285612106324,1.75,deborah,1963,collins chavez,applicant->employee,387
+samantha,samantha bennett,2017-02-07,bennett,2019-03-11,2021-03-31,thomas bennett,0.8416666746139527,2.0,thomas,1720,bennett,applicant->employee,388
+daniel,daniel hernandez,2017-02-09,martinez,2017-10-27,2021-03-31,daniel martinez,0.7805555582046508,3.4166667,daniel,1783,hernandez,applicant->employee,389
+joseph,joseph ross,2017-02-11,ross,2017-04-16,2017-06-29,joseph ross,1.0,0.16666667,joseph,1359,ross,applicant->employee,390
+brian,brian reed ramos,2017-02-11,reed-ramos,2017-03-19,2019-03-15,brian reed-ramos,0.9599999904632569,1.9166666,brian,1398,reed ramos,applicant->employee,391
+mark,mark williams,2017-02-14,williams,2017-03-22,2019-02-28,mark williams,1.0,1.9166666,mark,1109,williams,applicant->employee,392
+joseph,joseph fisher,2017-02-16,fisher,2017-03-03,2019-09-15,joseph fisher,1.0,2.5,joseph,1338,fisher,applicant->employee,393
+jessica,jessica brown,2017-02-20,brown,2016-09-18,2018-06-07,jack brown,0.7357142925262451,1.6666666,jack,1103,brown,applicant->employee,394
+jerry,jerry wilson,2017-02-21,wilson,2017-04-02,2019-05-08,jerry wilson,1.0,2.0833333,jerry,1395,wilson,applicant->employee,395
+jack,jack davis,2017-02-22,davis,2017-04-07,2017-08-27,jack davis,1.0,0.33333334,jack,1948,davis,applicant->employee,396
+sharon,sharon ortiz,2017-02-25,ortiz,2017-03-15,2017-07-11,sharon ortiz,1.0,0.25,sharon,1618,ortiz,applicant->employee,397
+christine,christine allen-jordan,2017-02-28,allen jordan,2017-04-24,2018-10-30,christine allen jordan,0.9666666746139526,1.5,christine,1272,allen-jordan,applicant->employee,398
+katherine,katherine murphy,2017-03-02,murphy,2020-01-16,2021-03-31,katherine murphy,1.0,1.1666666,katherine,1253,murphy,applicant->employee,399
+nancy,nancy mitchell-jordan,2017-03-03,mitchell jordan,2017-05-04,2018-02-21,nancy mitchell jordan,0.9733333349227905,0.75,nancy,1248,mitchell-jordan,applicant->employee,400
+beth,beth reyes,2017-03-04,reyes,2017-03-26,2018-08-01,beth reyes,1.0,1.3333334,beth,1603,reyes,applicant->employee,401
+margaret,margaret phillips,2017-03-06,phillips,2018-08-10,2019-06-19,karen phillips,0.7950000047683716,0.8333333,karen,1454,phillips,applicant->employee,402
+jason,jason wood,2017-03-20,wood,2017-04-05,2018-05-25,jason wood,1.0,1.0833334,jason,1573,wood,applicant->employee,403
+rachel,rachel parker,2017-03-21,parker,2017-05-29,2019-04-23,rachel parker,1.0,1.8333334,rachel,1343,parker,applicant->employee,404
+virginia,virginia wright,2017-03-27,wright,2017-05-03,2017-09-30,virginia wright,1.0,0.33333334,virginia,1192,wright,applicant->employee,405
+kevin,kevin green,2017-03-31,green,2019-06-15,2021-03-31,karen green,0.8400000095367431,1.75,karen,1203,green,applicant->employee,406
+david,david johnson,2017-04-01,johnson,2017-05-22,2018-06-29,david johnson,1.0,1.0833334,david,1113,johnson,applicant->employee,407
+samantha,samantha mitchell,2017-04-03,mitchell,2017-06-10,2018-03-18,samantha mitchell,1.0,0.75,samantha,1279,mitchell,applicant->employee,408
+gary,gary gutierrez,2017-04-04,gutierrez,2017-04-24,2019-03-14,gary gutierrez,1.0,1.8333334,gary,1545,gutierrez,applicant->employee,409
+sarah,sarah butler,2017-04-04,butler,2017-05-31,2018-04-13,sarah butler,1.0,0.8333333,sarah,1657,butler,applicant->employee,410
+kim,kim anderson,2017-04-04,anderson,2019-07-07,2021-03-31,kim anderson,1.0,1.6666666,kim,1767,anderson,applicant->employee,411
+emma,emma torres,2017-04-05,torres,2017-05-30,2017-06-27,emma torres,1.0,0.0,emma,1776,torres,applicant->employee,412
+stephen,stephen hill,2017-04-06,hill,2017-06-30,2019-03-22,stephen hill,1.0,1.6666666,stephen,1086,hill,applicant->employee,413
+karen,karen watson,2017-04-07,watson,2017-04-19,2018-01-14,karen watson,1.0,0.6666667,karen,1771,watson,applicant->employee,414
+jack,jack campbell,2017-04-08,lee,2014-12-22,2017-07-23,jack lee,0.775,2.5833333,jack,1920,campbell,applicant->employee,415
+greg,greg bailey,2017-04-13,bailey,2018-07-17,2021-03-31,greg bailey,1.0,2.6666667,greg,1350,bailey,applicant->employee,416
+steven,steven gutierrez,2017-04-14,gutierrez,2018-04-28,2018-12-12,andrew gutierrez,0.6666666626930237,0.5833333,andrew,1421,gutierrez,applicant->employee,417
+emily,emily gray,2017-04-14,gray,2017-05-27,2019-04-08,emily gray,1.0,1.8333334,emily,1826,gray,applicant->employee,418
+patricia,patricia ortiz,2017-04-16,martinez,2017-01-09,2018-05-23,patricia martinez,0.8599999904632568,1.3333334,patricia,1766,ortiz,applicant->employee,419
+carolyn,carolyn sanchez,2017-04-18,sanchez,2017-07-08,2018-09-12,carolyn sanchez,1.0,1.1666666,carolyn,1560,sanchez,applicant->employee,420
+ken,ken morgan-henderson,2017-04-20,morgan-henderson,2017-06-17,2018-09-12,ken morgan-henderson,1.0,1.1666666,ken,1870,morgan-henderson,applicant->employee,421
+timothy,timothy jackson,2017-04-23,jackson,2017-05-11,2017-12-20,tim jackson,0.8642857074737549,0.5833333,tim,1046,jackson,applicant->employee,422
+carolyn,carolyn scott,2017-04-23,scott,2019-03-10,2021-03-31,karen scott,0.8057142972946167,2.0,karen,1717,scott,applicant->employee,423
+joseph,joseph butler,2017-04-24,clark-alexander,2020-01-14,2021-03-31,joseph clark-alexander,0.6799999952316285,1.1666666,joseph,1284,butler,applicant->employee,424
+carol,carol lee bryant,2017-04-29,lee-bryant,2019-12-09,2021-03-31,carol lee-bryant,0.9599999904632569,1.25,carol,1863,lee bryant,applicant->employee,425
+christopher,christopher martin,2017-04-30,martin,2017-07-04,2017-09-16,chris martin,0.8772727251052856,0.16666667,chris,1671,martin,applicant->employee,426
+katherine,katherine gonzalez,2017-04-30,gonzalez,2017-07-13,2019-08-01,kathy gonzalez,0.848888897895813,2.0,kathy,1862,gonzalez,applicant->employee,427
+sarah,sarah harris-ramos,2017-05-03,harris ramos,2017-06-17,2017-07-09,sarah harris ramos,0.9666666746139526,0.0,sarah,1686,harris-ramos,applicant->employee,428
+benjamin,benjamin white,2017-05-04,white,2018-11-09,2021-03-31,benjamin white,1.0,2.3333333,benjamin,1602,white,applicant->employee,429
+margaret,margaret hernandez,2017-05-11,hernandez,2017-07-28,2021-03-31,margaret hernandez,1.0,3.6666667,margaret,1296,hernandez,applicant->employee,430
+christopher,christopher white,2017-05-14,white,2017-07-20,2019-10-26,christopher white,1.0,2.25,christopher,1426,white,applicant->employee,431
+kevin,kevin reed,2017-05-14,reed,2017-07-07,2018-06-28,kevin reed,1.0,0.9166667,kevin,1536,reed,applicant->employee,432
+nancy,nancy ward-ramos,2017-05-14,ward ramos,2017-08-03,2018-03-03,nancy ward ramos,0.9599999904632569,0.5833333,nancy,1596,ward-ramos,applicant->employee,433
+sarah,sarah miller,2017-05-17,miller,2017-07-18,2019-09-14,sarah miller,1.0,2.0833333,sarah,1128,miller,applicant->employee,434
+michael,michael garcia,2017-05-17,garcia,2017-07-04,2021-03-31,michael garcia,1.0,3.6666667,michael,1438,garcia,applicant->employee,435
+nicholas,nicholas torres,2017-05-19,torres,2017-08-08,2018-07-06,nicholas torres,1.0,0.8333333,nicholas,1133,torres,applicant->employee,436
+jason,jason howard,2017-05-21,wood,2017-04-05,2018-05-25,jason wood,0.8,1.0833334,jason,1573,howard,applicant->employee,437
+nancy,nancy carter,2017-05-22,carter,2017-07-27,2021-03-31,nancy carter,1.0,3.6666667,nancy,1731,carter,applicant->employee,438
+christopher,christopher garcia-ramos,2017-05-23,garcia-ramos,2018-01-09,2019-03-23,christopher garcia-ramos,1.0,1.1666666,christopher,1777,garcia-ramos,applicant->employee,439
+stephen,stephen campbell,2017-05-25,campbell,2017-07-26,2021-03-31,stephen campbell,1.0,3.6666667,stephen,1260,campbell,applicant->employee,440
+emily,emily cook,2017-05-27,cook,2017-08-03,2018-01-21,emily cook,1.0,0.41666666,emily,1285,cook,applicant->employee,441
+deborah,deborah scott,2017-05-28,scott,2017-08-07,2021-03-31,deborah scott,1.0,3.5833333,deborah,1340,scott,applicant->employee,442
+carolyn,carolyn cruz,2017-05-30,cruz,2017-07-20,2019-09-20,carolyn cruz,1.0,2.1666667,carolyn,1326,cruz,applicant->employee,443
+donald,donald rogers,2017-05-30,rogers,2017-08-15,2021-03-31,donald rogers,1.0,3.5833333,donald,1753,rogers,applicant->employee,444
+amy,amy hernandez,2017-06-01,ramirez,2016-11-19,2018-02-02,amy ramirez,0.7539682626724243,1.1666666,amy,1318,hernandez,applicant->employee,445
+mary,mary miller,2017-06-03,miller,2017-07-04,2021-03-31,mary miller,1.0,3.6666667,mary,1148,miller,applicant->employee,446
+scott,scott young,2017-06-06,young,2017-06-13,2017-06-26,scott young,1.0,0.0,scott,1300,young,applicant->employee,447
+ken,ken ward,2017-06-06,ward,2019-06-26,2021-03-31,ken ward,1.0,1.75,ken,1672,ward,applicant->employee,448
+jerry,jerry gonzalez,2017-06-07,gonzalez,2017-07-04,2021-03-31,jerry gonzalez,1.0,3.6666667,jerry,1339,gonzalez,applicant->employee,449
+thomas,thomas perry,2017-06-08,perry,2017-06-12,2017-11-04,thomas perry,1.0,0.33333334,thomas,1741,perry,applicant->employee,450
+paul,paul james,2017-06-08,james,2017-06-25,2019-06-14,paul james,1.0,1.9166666,paul,1925,james,applicant->employee,451
+stephanie,stephanie perez,2017-06-09,perez,2017-07-08,2021-03-31,stephanie perez,1.0,3.6666667,stephanie,1207,perez,applicant->employee,452
+timothy,timothy harris,2017-06-09,harris,2018-07-29,2018-11-06,timothy harris,1.0,0.25,timothy,1214,harris,applicant->employee,453
+stephanie,stephanie campbell,2017-06-11,campbell,2017-08-23,2018-02-04,stephanie campbell,1.0,0.41666666,stephanie,1952,campbell,applicant->employee,454
+jerry,jerry gomez,2017-06-12,gomez,2017-07-24,2021-03-31,jerry gomez,1.0,3.6666667,jerry,1492,gomez,applicant->employee,455
+christopher,christopher sullivan,2017-06-15,sullivan,2017-06-26,2019-08-31,christopher sullivan,1.0,2.1666667,christopher,1278,sullivan,applicant->employee,456
+katherine,katherine bennett,2017-06-19,bennett,2018-06-12,2021-03-31,katherine bennett,1.0,2.75,katherine,1222,bennett,applicant->employee,457
+helen,helen jackson-chavez,2017-06-21,jackson-chavez,2017-07-23,2021-03-31,helen jackson-chavez,1.0,3.6666667,helen,1006,jackson-chavez,applicant->employee,458
+bill,bill carter,2017-06-22,carter,2017-09-17,2021-03-31,william carter,0.7642857074737549,3.5,william,1711,carter,applicant->employee,459
+christopher,christopher murphy,2017-06-23,murphy,2017-09-21,2019-01-12,chris murphy,0.8772727251052856,1.25,chris,1775,murphy,applicant->employee,460
+beth,beth taylor,2017-06-25,taylor,2017-07-23,2017-12-29,beth taylor,1.0,0.41666666,beth,1938,taylor,applicant->employee,461
+jerry,jerry sullivan,2017-06-26,sullivan,2017-09-13,2018-06-16,jerry sullivan,1.0,0.75,jerry,1507,sullivan,applicant->employee,462
+helen,helen sanders,2017-06-26,sanders,2017-08-13,2018-01-15,helen sanders,1.0,0.41666666,helen,1801,sanders,applicant->employee,463
+catherine,catherine reyes,2017-06-27,reyes,2017-08-14,2021-03-31,catherine reyes,1.0,3.5833333,catherine,1010,reyes,applicant->employee,464
+richard,richard long,2017-06-28,long,2017-08-29,2021-03-31,richard long,1.0,3.5833333,richard,1722,long,applicant->employee,465
+brandon,brandon wright,2017-07-03,wright,2017-08-27,2021-03-31,brandon wright,1.0,3.5833333,brandon,1858,wright,applicant->employee,466
+eric,eric carter-jordan,2017-07-10,carter jordan,2017-08-13,2019-01-11,eric carter jordan,0.9692307710647583,1.3333334,eric,1868,carter-jordan,applicant->employee,467
+eric,eric perry ramos,2017-07-11,perry-ramos,2017-09-12,2017-10-30,eric perry-ramos,0.9636363744735718,0.083333336,eric,1967,perry ramos,applicant->employee,468
+katherine,katherine bailey,2017-07-12,bailey,2017-09-23,2018-12-08,katherine bailey,1.0,1.1666666,katherine,1155,bailey,applicant->employee,469
+anthony,anthony robinson-cole,2017-07-15,robinson-cole,2017-08-25,2021-03-31,anthony robinson-cole,1.0,3.5833333,anthony,1143,robinson-cole,applicant->employee,470
+robert,robert long,2017-07-16,long,2017-07-20,2018-03-15,robert long,1.0,0.5833333,robert,1857,long,applicant->employee,471
+virginia,virginia james,2017-07-18,williams,2020-02-01,2021-03-31,virginia williams,0.7950000047683716,1.0833334,virginia,1877,james,applicant->employee,472
+raymond,raymond moore,2017-07-20,moore,2017-10-16,2019-11-29,raymond moore,1.0,2.0833333,raymond,1457,moore,applicant->employee,473
+rebecca,rebecca perez,2017-07-21,perez,2017-09-02,2021-03-31,rebecca perez,1.0,3.5,rebecca,1049,perez,applicant->employee,474
+george,george james graham,2017-07-22,james-graham,2017-10-11,2019-02-24,george james-graham,0.9666666746139526,1.3333334,george,1122,james graham,applicant->employee,475
+pam,pam lopez,2017-07-22,lopez,2017-07-23,2018-12-26,pamela lopez,0.8833333253860474,1.4166666,pamela,1759,lopez,applicant->employee,476
+ruth,ruth martin,2017-07-23,martin,2017-08-18,2019-01-15,ruth martin,1.0,1.3333334,ruth,1610,martin,applicant->employee,477
+mary,mary ortiz,2017-07-25,ortiz,2017-08-14,2021-03-31,mary ortiz,1.0,3.5833333,mary,1448,ortiz,applicant->employee,478
+christopher,christopher flores,2017-07-26,flores,2019-01-07,2019-09-21,christopher flores,1.0,0.6666667,christopher,1385,flores,applicant->employee,479
+katherine,katherine hall,2017-07-28,hall,2017-09-19,2019-01-11,kathy hall,0.848888897895813,1.25,kathy,1037,hall,applicant->employee,480
+kim,kim barnes,2017-07-31,barnes,2017-09-24,2021-03-31,kimberly barnes,0.875,3.5,kimberly,1311,barnes,applicant->employee,481
+timothy,timothy hughes,2017-07-31,hughes,2017-08-15,2019-01-03,timothy hughes,1.0,1.3333334,timothy,1388,hughes,applicant->employee,482
+benjamin,benjamin smith,2017-07-31,white,2018-11-09,2021-03-31,benjamin white,0.7400000095367432,2.3333333,benjamin,1602,smith,applicant->employee,483
+kim,kim rodriguez,2017-08-02,rodriguez,2017-09-01,2019-12-04,kimberly rodriguez,0.875,2.25,kimberly,1450,rodriguez,applicant->employee,484
+dorothy,dorothy rivera,2017-08-03,rivera,2017-10-19,2018-05-02,dorothy rivera,1.0,0.5,dorothy,1337,rivera,applicant->employee,485
+samantha,samantha thompson,2017-08-05,thompson,2017-12-19,2020-03-01,samantha thompson,1.0,2.1666667,samantha,1231,thompson,applicant->employee,486
+jack,jack gonzalez alexander,2017-08-07,gonzalez-alexander,2017-11-01,2021-03-31,jack gonzalez-alexander,0.9777777671813965,3.3333333,jack,1654,gonzalez alexander,applicant->employee,487
+lisa,lisa hill,2017-08-13,hill,2017-11-02,2021-03-31,lisa hill,1.0,3.3333333,lisa,1261,hill,applicant->employee,488
+melissa,melissa wood,2017-08-14,wood,2017-08-17,2018-12-29,melissa wood,1.0,1.3333334,melissa,1402,wood,applicant->employee,489
+laura,laura phillips,2017-08-17,phillips,2017-10-04,2021-03-31,laura phillips,1.0,3.4166667,laura,1390,phillips,applicant->employee,490
+donna,donna roberts,2017-08-17,roberts,2017-08-19,2019-12-23,donna roberts,1.0,2.3333333,donna,1646,roberts,applicant->employee,491
+beth,beth jones,2017-08-20,jones,2019-07-11,2021-03-31,beth jones,1.0,1.6666666,beth,1637,jones,applicant->employee,492
+ruth,ruth davis,2017-08-21,davis,2017-10-02,2019-06-19,ruth davis,1.0,1.6666666,ruth,1847,davis,applicant->employee,493
+melissa,melissa wilson,2017-08-22,wilson,2017-09-17,2021-03-31,melissa wilson,1.0,3.5,melissa,1941,wilson,applicant->employee,494
+james,james powell,2017-08-22,powell,2017-09-29,2019-12-07,james powell,1.0,2.1666667,james,1976,powell,applicant->employee,495
+lisa,lisa price,2017-08-24,price,2017-09-06,2019-01-31,lisa price,1.0,1.3333334,lisa,1183,price,applicant->employee,496
+sandra,sandra williams,2017-08-24,williams,2017-10-27,2021-03-31,sandra williams,1.0,3.4166667,sandra,1991,williams,applicant->employee,497
+greg,greg thompson,2017-08-31,thompson,2017-10-30,2021-03-31,gregory thompson,0.8928571462631225,3.4166667,gregory,1378,thompson,applicant->employee,498
+joshua,joshua morris,2017-09-04,morris,2017-09-14,2019-10-24,joshua morris,1.0,2.0833333,joshua,1399,morris,applicant->employee,499
+angela,angela stewart,2017-09-05,stewart,2017-10-24,2019-04-23,angela stewart,1.0,1.4166666,angela,1493,stewart,applicant->employee,500
+samantha,samantha adams,2017-09-08,adams,2017-09-24,2021-03-31,samantha adams,1.0,3.5,samantha,1027,adams,applicant->employee,501
+daniel,daniel martinez,2017-09-08,martinez,2017-10-27,2021-03-31,daniel martinez,1.0,3.4166667,daniel,1783,martinez,applicant->employee,502
+susan,susan williams,2017-09-10,williams,2017-10-27,2021-03-31,sandra williams,0.7933333396911622,3.4166667,sandra,1991,williams,applicant->employee,503
+emma,emma phillips,2017-09-12,wilson gibson,2018-10-31,2019-11-24,emma wilson gibson,0.7019230842590332,1.0,emma,1219,phillips,applicant->employee,504
+margaret,margaret hughes gibson,2017-09-12,hughes-gibson,2017-11-22,2018-12-07,margaret hughes-gibson,0.9692307710647583,1.0,margaret,1431,hughes gibson,applicant->employee,505
+gary,gary taylor,2017-09-14,taylor,2017-10-28,2021-03-31,gary taylor,1.0,3.4166667,gary,1180,taylor,applicant->employee,506
+kevin,kevin roberts,2017-09-14,roberts,2017-11-12,2021-03-31,kevin roberts,1.0,3.3333333,kevin,1962,roberts,applicant->employee,507
+dorothy,dorothy moore,2017-09-15,moore,2017-10-16,2019-11-29,raymond moore,0.7571428537368774,2.0833333,raymond,1457,moore,applicant->employee,508
+thomas,thomas nelson,2017-09-15,nelson,2017-10-13,2019-05-19,thomas nelson,1.0,1.5833334,thomas,1541,nelson,applicant->employee,509
+emily,emily rodriguez-alexander,2017-09-15,rodriguez alexander,2017-10-26,2018-01-03,emily rodriguez alexander,0.978947377204895,0.16666667,emily,1605,rodriguez-alexander,applicant->employee,510
+charles,charles sanders,2017-09-16,sanders,2017-09-19,2019-09-15,charles sanders,1.0,1.9166666,charles,1185,sanders,applicant->employee,511
+kathleen,kathleen reed,2017-09-18,reed,2018-05-03,2019-02-01,kathy reed,0.8599999904632568,0.6666667,kathy,1189,reed,applicant->employee,512
+ken,ken rodriguez,2017-09-18,rodriguez,2017-12-01,2021-03-31,kenneth rodriguez,0.8928571462631225,3.25,kenneth,1662,rodriguez,applicant->employee,513
+margaret,margaret price,2017-09-21,price,2017-09-28,2019-08-25,margaret price,1.0,1.8333334,margaret,1035,price,applicant->employee,514
+daniel,daniel martin,2017-09-24,martin,2017-09-29,2021-03-31,daniel martin,1.0,3.5,daniel,1786,martin,applicant->employee,515
+emma,emma watson,2017-09-28,watson,2017-10-29,2017-11-04,emma watson,1.0,0.0,emma,1824,watson,applicant->employee,516
+ashley,ashley nguyen,2017-09-30,nguyen,2017-12-28,2019-03-04,ashley nguyen,1.0,1.1666666,ashley,1733,nguyen,applicant->employee,517
+ronald,ronald johnson,2017-10-02,johnson,2017-12-12,2018-12-06,ronald johnson,1.0,0.9166667,ronald,1442,johnson,applicant->employee,518
+bill,bill cruz,2017-10-03,cruz,2017-11-26,2018-02-01,william cruz,0.7642857074737549,0.16666667,william,1332,cruz,applicant->employee,519
+richard,richard wood,2017-10-04,wood,2017-11-03,2021-03-31,richard wood,1.0,3.3333333,richard,1020,wood,applicant->employee,520
+andrew,andrew collins,2017-10-07,collins,2018-08-01,2021-03-31,alexander collins,0.8222222328186035,2.5833333,alexander,1349,collins,applicant->employee,521
+gary,gary roberts,2017-10-09,roberts,2017-12-09,2021-03-31,gary roberts,1.0,3.25,gary,1946,roberts,applicant->employee,522
+katherine,katherine wright,2017-10-10,wright,2020-01-01,2021-03-31,katherine wright,1.0,1.1666666,katherine,1430,wright,applicant->employee,523
+alexander,alexander kelly,2017-10-11,kelly,2018-01-06,2018-11-09,alexander kelly,1.0,0.8333333,alexander,1773,kelly,applicant->employee,524
+catherine,catherine cook,2017-10-12,cook,2017-11-23,2021-03-31,catherine cook,1.0,3.3333333,catherine,1190,cook,applicant->employee,525
+andrew,andrew james,2017-10-12,james,2018-01-01,2018-05-26,andrew james,1.0,0.33333334,andrew,1943,james,applicant->employee,526
+george,george cox,2017-10-13,cox,2017-11-19,2019-06-29,george cox,1.0,1.5833334,george,1743,cox,applicant->employee,527
+linda,linda wood,2017-10-15,wood,2017-12-04,2018-06-02,linda wood,1.0,0.41666666,linda,1869,wood,applicant->employee,528
+ryan,ryan howard,2017-10-17,howard,2017-11-09,2019-11-18,ryan howard,1.0,2.0,ryan,1032,howard,applicant->employee,529
+pam,pam ramirez-chavez,2017-10-17,ramirez-chavez,2019-02-02,2021-03-31,pam ramirez-chavez,1.0,2.0833333,pam,1321,ramirez-chavez,applicant->employee,530
+john,john ramirez,2017-10-17,ramirez,2018-01-02,2021-03-31,john ramirez,1.0,3.1666667,john,1334,ramirez,applicant->employee,531
+james,james anderson-reynolds,2017-10-17,anderson reynolds,2017-11-02,2021-03-31,james anderson reynolds,0.9764705896377563,3.3333333,james,1423,anderson-reynolds,applicant->employee,532
+joshua,joshua james,2017-10-18,james,2017-12-13,2021-03-31,joshua james,1.0,3.25,joshua,1150,james,applicant->employee,533
+angela,angela brooks,2017-10-19,brooks,2017-12-23,2021-03-31,angela brooks,1.0,3.25,angela,1067,brooks,applicant->employee,534
+alexander,alexander sanders,2017-10-19,sanders,2019-02-12,2021-03-31,alexander sanders,1.0,2.0833333,alexander,1269,sanders,applicant->employee,535
+george,george nelson,2017-10-20,nelson,2018-01-10,2018-08-27,george nelson,1.0,0.5833333,george,1465,nelson,applicant->employee,536
+christopher,christopher stewart jordan,2017-10-22,stewart jordan,2017-12-25,2018-09-22,christopher stewart jordan,1.0,0.6666667,christopher,1522,stewart jordan,applicant->employee,537
+john,john taylor,2017-10-23,taylor,2017-11-01,2021-03-31,john taylor,1.0,3.3333333,john,1250,taylor,applicant->employee,538
+cynthia,cynthia allen,2017-10-27,allen,2017-11-18,2019-02-05,cynthia allen,1.0,1.1666666,cynthia,1309,allen,applicant->employee,539
+christopher,christopher cook,2017-10-31,cook,2018-01-16,2021-03-31,chris cook,0.8772727251052856,3.1666667,chris,1168,cook,applicant->employee,540
+ronald,ronald lewis,2017-11-04,lewis,2018-01-17,2019-05-11,ronald lewis,1.0,1.25,ronald,1867,lewis,applicant->employee,541
+pam,pam cooper,2017-11-09,cooper,2017-12-25,2021-03-31,pamela cooper,0.8833333253860474,3.25,pamela,1299,cooper,applicant->employee,542
+helen,helen wilson hamilton,2017-11-10,wilson-hamilton,2018-11-15,2019-03-15,helen wilson-hamilton,0.9733333349227905,0.33333334,helen,1482,wilson hamilton,applicant->employee,543
+beth,beth hughes,2017-11-10,hughes,2018-05-17,2021-03-31,beth hughes,1.0,2.8333333,beth,1497,hughes,applicant->employee,544
+shirley,shirley rivera-griffin,2017-11-13,rivera griffin,2018-01-01,2019-10-30,shirley rivera griffin,0.9714285612106324,1.75,shirley,1016,rivera-griffin,applicant->employee,545
+greg,greg sanchez,2017-11-14,sanchez,2018-01-29,2018-08-23,greg sanchez,1.0,0.5,greg,1047,sanchez,applicant->employee,546
+charles,charles barnes,2017-11-16,barnes,2018-01-17,2020-02-25,charles barnes,1.0,2.0833333,charles,1446,barnes,applicant->employee,547
+dennis,dennis reed,2017-11-17,reed,2017-07-07,2018-06-28,kevin reed,0.753333330154419,0.9166667,kevin,1536,reed,applicant->employee,548
+pam,pam allen-hayes,2017-11-17,allen-hayes,2018-02-07,2019-11-25,pam allen-hayes,1.0,1.75,pam,1389,allen-hayes,applicant->employee,549
+brian,brian rogers west,2017-11-18,rogers-west,2017-11-25,2021-03-31,brian rogers-west,0.9636363744735718,3.3333333,brian,1107,rogers west,applicant->employee,550
+betty,betty butler,2017-11-19,butler,2018-01-18,2021-03-31,betty butler,1.0,3.1666667,betty,1855,butler,applicant->employee,551
+timothy,timothy jones,2017-11-19,jones,2020-02-10,2021-03-31,timothy jones,1.0,1.0833334,timothy,1888,jones,applicant->employee,552
+daniel,daniel watson,2017-11-19,watson,2017-11-20,2018-11-06,daniel watson,1.0,0.9166667,daniel,1932,watson,applicant->employee,553
+linda,linda rodriguez,2017-11-20,rodriguez,2018-01-14,2021-03-31,linda rodriguez,1.0,3.1666667,linda,1444,rodriguez,applicant->employee,554
+kevin,kevin howard,2017-11-26,ward,2019-06-26,2021-03-31,ken ward,0.853333330154419,1.75,ken,1672,howard,applicant->employee,555
+amanda,amanda jones,2017-11-26,jones,2018-01-06,2018-02-08,amanda jones,1.0,0.083333336,amanda,1625,jones,applicant->employee,556
+raymond,raymond adams,2017-11-27,adams,2018-01-06,2018-07-08,raymond adams,1.0,0.5,raymond,1930,adams,applicant->employee,557
+joshua,joshua moore,2017-11-28,moore,2017-12-09,2019-04-16,joshua moore,1.0,1.3333334,joshua,1141,moore,applicant->employee,558
+margaret,margaret thompson,2017-11-28,thompson,2016-06-03,2017-12-18,matthew thompson,0.7678571462631225,1.5,matthew,1846,thompson,applicant->employee,559
+dorothy,dorothy diaz,2017-11-29,diaz,2018-02-27,2019-07-14,dorothy diaz,1.0,1.3333334,dorothy,1194,diaz,applicant->employee,560
+greg,greg gray,2017-12-01,gray,2017-12-21,2018-12-06,greg gray,1.0,0.9166667,greg,1071,gray,applicant->employee,561
+alexander,alexander wood,2017-12-01,wood,2018-02-17,2021-03-31,alexander wood,1.0,3.0833333,alexander,1895,wood,applicant->employee,562
+michael,michael robinson,2017-12-10,robinson,2018-01-03,2018-07-12,michael robinson,1.0,0.5,michael,1578,robinson,applicant->employee,563
+emily,emily gutierrez,2017-12-11,rodriguez alexander,2017-10-26,2018-01-03,emily rodriguez alexander,0.7830409288406373,0.16666667,emily,1605,gutierrez,applicant->employee,564
+amanda,amanda peterson,2017-12-12,jones,2018-01-06,2018-02-08,amanda jones,0.7849999904632569,0.083333336,amanda,1625,peterson,applicant->employee,565
+sarah,sarah rivera,2017-12-13,rivera,2019-02-16,2019-12-09,deborah rivera,0.795714282989502,0.75,deborah,1992,rivera,applicant->employee,566
+ronald,ronald powell chavez,2017-12-13,powell chavez,2018-01-09,2018-02-11,ronald powell chavez,1.0,0.083333336,ronald,1779,powell chavez,applicant->employee,567
+bill,bill thompson,2017-12-15,thompson,2018-03-12,2019-03-15,william thompson,0.7642857074737549,1.0,william,1614,thompson,applicant->employee,568
+jerry,jerry stewart,2017-12-17,stewart,2018-03-15,2021-03-31,jerry stewart,1.0,3.0,jerry,1306,stewart,applicant->employee,569
+patricia,patricia scott,2017-12-17,scott,2018-02-25,2019-09-09,patricia scott,1.0,1.5,patricia,1345,scott,applicant->employee,570
+ashley,ashley anderson,2017-12-21,anderson,2018-01-24,2021-03-31,ashley anderson,1.0,3.1666667,ashley,1273,anderson,applicant->employee,571
+eric,eric kelly,2017-12-22,kelly,2018-01-27,2021-03-31,eric kelly,1.0,3.1666667,eric,1987,kelly,applicant->employee,572
+nicole,nicole morales,2017-12-24,morales,2018-02-06,2019-03-24,nicole morales,1.0,1.0833334,nicole,1599,morales,applicant->employee,573
+charles,charles lopez,2017-12-25,lopez,2018-03-21,2021-03-31,charles lopez,1.0,3.0,charles,1485,lopez,applicant->employee,574
+samantha,samantha harris,2017-12-27,harris,2018-03-14,2018-09-16,samantha harris,1.0,0.5,samantha,1127,harris,applicant->employee,575
+carol,carol young,2017-12-29,young,2018-03-13,2021-03-31,carol young,1.0,3.0,carol,1661,young,applicant->employee,576
+sarah,sarah thompson,2018-01-04,thompson,2018-03-14,2021-03-31,sarah thompson,1.0,3.0,sarah,1883,thompson,applicant->employee,577
+margaret,margaret james,2018-01-05,james,2018-02-01,2019-04-09,margaret james,1.0,1.1666666,margaret,1004,james,applicant->employee,578
+daniel,daniel parker,2018-01-06,parker,2018-02-18,2018-09-24,daniel parker,1.0,0.5833333,daniel,1007,parker,applicant->employee,579
+beth,beth perez,2018-01-13,perez,2018-03-03,2020-03-16,elizabeth perez,0.8611111164093017,2.0,elizabeth,1577,perez,applicant->employee,580
+timothy,timothy robinson,2018-01-15,robinson,2019-11-03,2021-03-31,timothy robinson,1.0,1.3333334,timothy,1019,robinson,applicant->employee,581
+christopher,christopher martinez-coleman,2018-01-15,martinez-coleman,2018-03-28,2018-06-16,christopher martinez-coleman,1.0,0.16666667,christopher,1564,martinez-coleman,applicant->employee,582
+joshua,joshua nguyen,2018-01-16,nguyen,2018-01-28,2021-03-31,joshua nguyen,1.0,3.1666667,joshua,1186,nguyen,applicant->employee,583
+ken,ken foster west,2018-01-16,foster west,2018-04-26,2021-03-31,ken foster west,1.0,2.9166667,ken,1517,foster west,applicant->employee,584
+james,james long,2018-01-17,long,2018-04-15,2021-03-31,james long,1.0,2.9166667,james,1293,long,applicant->employee,585
+ronald,ronald rogers,2018-01-19,rogers,2018-03-01,2021-03-31,ronald rogers,1.0,3.0,ronald,1410,rogers,applicant->employee,586
+stephen,stephen miller,2018-01-20,myers,2016-11-04,2019-04-30,stephen myers,0.8200000047683715,2.4166667,stephen,1307,miller,applicant->employee,587
+rebecca,rebecca richardson,2018-01-20,richardson,2018-03-12,2018-11-22,rebecca richardson,1.0,0.6666667,rebecca,1606,richardson,applicant->employee,588
+janet,janet foster,2018-01-22,foster,2018-04-15,2021-03-31,janet foster,1.0,2.9166667,janet,1336,foster,applicant->employee,589
+katherine,katherine turner,2018-01-24,turner,2018-02-09,2021-03-31,kathy turner,0.848888897895813,3.0833333,kathy,1473,turner,applicant->employee,590
+janet,janet reyes,2018-01-24,reyes,2018-03-02,2019-04-04,janet reyes,1.0,1.0833334,janet,1494,reyes,applicant->employee,591
+jeffrey,jeffrey hughes,2018-01-25,hughes,2018-04-02,2021-03-31,jeffrey hughes,1.0,2.9166667,jeffrey,1329,hughes,applicant->employee,592
+cynthia,cynthia anderson,2018-01-26,anderson,2018-01-28,2018-06-25,cynthia anderson,1.0,0.33333334,cynthia,1152,anderson,applicant->employee,593
+greg,greg baker-jordan,2018-01-26,baker-jordan,2018-04-23,2019-05-25,greg baker-jordan,1.0,1.0833334,greg,1191,baker-jordan,applicant->employee,594
+greg,greg ortiz-graham,2018-01-28,ortiz-graham,2019-01-17,2021-03-31,greg ortiz-graham,1.0,2.1666667,greg,1612,ortiz-graham,applicant->employee,595
+emma,emma thomas,2018-01-29,thomas,2018-03-12,2021-03-31,emma thomas,1.0,3.0,emma,1638,thomas,applicant->employee,596
+betty,betty moore,2018-01-29,moore,2018-02-01,2021-03-31,betty moore,1.0,3.0833333,betty,1645,moore,applicant->employee,597
+jeffrey,jeffrey ortiz,2018-01-30,martinez,2018-12-16,2019-11-01,jeffrey martinez,0.8599999904632568,0.8333333,jeffrey,1451,ortiz,applicant->employee,598
+christine,christine baker,2018-01-31,baker,2018-03-18,2021-03-31,christine baker,1.0,3.0,christine,1907,baker,applicant->employee,599
+thomas,thomas adams,2018-02-01,adams,2018-02-20,2021-03-31,thomas adams,1.0,3.0833333,thomas,1163,adams,applicant->employee,600
+scott,scott hill-west,2018-02-03,hill-west,2018-03-06,2018-06-19,scott hill-west,1.0,0.25,scott,1174,hill-west,applicant->employee,601
+pam,pam rivera,2018-02-03,rivera,2018-03-13,2021-03-31,pamela rivera,0.8833333253860474,3.0,pamela,1230,rivera,applicant->employee,602
+greg,greg smith,2018-02-03,smith,2018-07-03,2019-08-21,greg smith,1.0,1.0833334,greg,1885,smith,applicant->employee,603
+donald,donald mitchell,2018-02-05,hill,2015-02-09,2017-09-30,donald hill,0.8,2.5833333,donald,1275,mitchell,applicant->employee,604
+anna,anna cook-chavez,2018-02-06,cook chavez,2019-07-28,2021-03-31,anna cook chavez,0.8636363744735718,1.6666666,anna,1015,cook-chavez,applicant->employee,605
+larry,larry wood,2018-02-08,wood,2018-04-20,2021-03-31,larry wood,1.0,2.9166667,larry,1034,wood,applicant->employee,606
+ruth,ruth phillips,2018-02-09,phillips,2018-02-28,2021-03-31,ruth phillips,1.0,3.0833333,ruth,1033,phillips,applicant->employee,607
+larry,larry diaz,2018-02-09,diaz,2018-02-24,2019-03-14,larry diaz,1.0,1.0,larry,1504,diaz,applicant->employee,608
+michael,michael ortiz,2018-02-10,ortiz,2018-04-28,2019-02-10,michael ortiz,1.0,0.75,michael,1901,ortiz,applicant->employee,609
+amanda,amanda johnson,2018-02-11,johnson,2018-05-09,2018-06-19,amanda johnson,1.0,0.083333336,amanda,1149,johnson,applicant->employee,610
+robert,robert ross,2018-02-13,morris,2019-10-05,2021-03-31,robert morris,0.8333333253860473,1.4166666,robert,1470,ross,applicant->employee,611
+carol,carol reyes,2018-02-13,reyes,2018-03-17,2021-03-31,carol reyes,1.0,3.0,carol,1769,reyes,applicant->employee,612
+edward,edward clark,2018-02-13,clark,2018-02-20,2021-03-31,edward clark,1.0,3.0833333,edward,1931,clark,applicant->employee,613
+nicholas,nicholas nelson,2018-02-17,nelson,2017-10-13,2019-05-19,thomas nelson,0.8333333253860473,1.5833334,thomas,1541,nelson,applicant->employee,614
+samuel,samuel myers,2018-02-17,myers,2019-10-22,2021-03-31,michelle myers,0.775,1.4166666,michelle,1874,myers,applicant->employee,615
+ken,ken hill,2018-02-18,hill,2018-05-14,2021-03-31,kenneth hill,0.8928571462631225,2.8333333,kenneth,1985,hill,applicant->employee,616
+kim,kim young,2018-02-21,young,2018-03-25,2021-03-31,kimberly young,0.875,3.0,kimberly,1807,young,applicant->employee,617
+beth,beth jenkins coleman,2018-02-23,jenkins coleman,2018-05-04,2019-03-04,beth jenkins coleman,1.0,0.8333333,beth,1808,jenkins coleman,applicant->employee,618
+david,david jackson,2018-02-27,jackson,2018-04-26,2021-03-31,david jackson,1.0,2.9166667,david,1051,jackson,applicant->employee,619
+timothy,timothy morales,2018-03-01,morales,2018-03-13,2021-03-31,tim morales,0.8642857074737549,3.0,tim,1225,morales,applicant->employee,620
+susan,susan russell,2018-03-02,ross-reynolds,2017-02-11,2019-08-17,susan ross-reynolds,0.7791208744049072,2.5,susan,1455,russell,applicant->employee,621
+michael,michael barnes,2018-03-02,barnes,2018-04-07,2021-03-31,michael barnes,1.0,2.9166667,michael,1597,barnes,applicant->employee,622
+matthew,matthew parker,2018-03-04,parker,2018-03-20,2021-03-31,matthew parker,1.0,3.0,matthew,1815,parker,applicant->employee,623
+angela,angela barnes-ramos,2018-03-06,barnes ramos,2018-03-18,2018-11-19,angela barnes ramos,0.9666666746139526,0.6666667,angela,1833,barnes-ramos,applicant->employee,624
+joseph,joseph clark alexander,2018-03-08,clark-alexander,2020-01-14,2021-03-31,joseph clark-alexander,0.9733333349227905,1.1666666,joseph,1284,clark alexander,applicant->employee,625
+beth,beth phillips,2018-03-08,phillips,2018-04-09,2021-03-31,elizabeth phillips,0.8611111164093017,2.9166667,elizabeth,1763,phillips,applicant->employee,626
+samuel,samuel lopez,2018-03-09,lopez,2017-07-23,2018-12-26,pamela lopez,0.8500000000000001,1.4166666,pamela,1759,lopez,applicant->employee,627
+amanda,amanda ramirez,2018-03-10,ramirez,2018-10-20,2019-11-22,sandra ramirez,0.8500000000000001,1.0833334,sandra,1462,ramirez,applicant->employee,628
+rachel,rachel white-cole,2018-03-10,white-cole,2018-04-03,2021-03-31,rachel white-cole,1.0,2.9166667,rachel,1282,white-cole,applicant->employee,629
+daniel,daniel james,2018-03-10,james,2018-06-08,2021-03-31,daniel james,1.0,2.75,daniel,1745,james,applicant->employee,630
+cynthia,cynthia cook,2018-03-12,cook,2018-05-12,2021-03-31,cynthia cook,1.0,2.8333333,cynthia,1650,cook,applicant->employee,631
+jacob,jacob evans,2018-03-12,evans,2018-04-13,2020-01-14,jacob evans,1.0,1.75,jacob,1852,evans,applicant->employee,632
+thomas,thomas rivera,2018-03-23,rivera,2017-09-15,2018-02-08,matthew rivera,0.7761904716491699,0.33333334,matthew,1648,rivera,applicant->employee,633
+patrick,patrick roberts,2018-03-30,flores,2018-06-24,2021-03-31,patrick flores,0.7761904716491699,2.75,patrick,1586,roberts,applicant->employee,634
+daniel,daniel edwards,2018-04-01,edwards,2018-06-01,2019-07-04,daniel edwards,1.0,1.0833334,daniel,1344,edwards,applicant->employee,635
+lisa,lisa sanders,2018-04-01,sanders,2018-06-11,2021-03-31,lisa sanders,1.0,2.75,lisa,1663,sanders,applicant->employee,636
+kevin,kevin phillips,2018-04-02,phillips,2018-04-08,2018-09-24,kevin phillips,1.0,0.41666666,kevin,1441,phillips,applicant->employee,637
+katherine,katherine reed,2018-04-03,reed,2018-05-03,2019-02-01,kathy reed,0.848888897895813,0.6666667,kathy,1189,reed,applicant->employee,638
+david,david hughes,2018-04-05,hughes,2018-04-15,2018-11-01,david hughes,1.0,0.5,david,1384,hughes,applicant->employee,639
+nancy,nancy harris,2018-04-06,hamilton,2018-09-11,2019-01-30,nancy hamilton,0.775,0.33333334,nancy,1314,harris,applicant->employee,640
+michelle,michelle anderson,2018-04-07,anderson,2018-04-23,2020-02-07,michelle anderson,1.0,1.75,michelle,1040,anderson,applicant->employee,641
+richard,richard thomas,2018-04-09,thomas,2018-04-17,2018-07-04,richard thomas,1.0,0.16666667,richard,1411,thomas,applicant->employee,642
+jack,jack gutierrez,2018-04-09,gutierrez,2018-06-22,2021-03-31,jack gutierrez,1.0,2.75,jack,1772,gutierrez,applicant->employee,643
+david,david jenkins,2018-04-11,jenkins,2018-04-17,2021-03-31,david jenkins,1.0,2.9166667,david,1319,jenkins,applicant->employee,644
+stephanie,stephanie cruz,2018-04-11,cruz,2018-06-27,2018-11-02,stephanie cruz,1.0,0.33333334,stephanie,1515,cruz,applicant->employee,645
+debra,debra brooks-hayes,2018-04-16,brooks hayes,2018-11-28,2021-03-31,debra brooks hayes,0.9666666746139526,2.3333333,debra,1136,brooks-hayes,applicant->employee,646
+katherine,katherine smith,2018-04-17,smith,2018-06-06,2021-03-31,katherine smith,1.0,2.75,katherine,1501,smith,applicant->employee,647
+bill,bill sanchez,2018-04-18,gonzales,2018-02-23,2018-12-10,bill gonzales,0.7678571462631225,0.75,bill,1332,sanchez,applicant->employee,648
+andrew,andrew campbell,2018-04-24,campbell,2018-06-14,2021-03-31,andrew campbell,1.0,2.75,andrew,1424,campbell,applicant->employee,649
+stephen,stephen phillips,2018-04-24,phillips,2018-06-11,2019-08-24,stephen phillips,1.0,1.1666666,stephen,1922,phillips,applicant->employee,650
+greg,greg perry,2018-04-29,perry,2018-05-11,2019-09-18,greg perry,1.0,1.3333334,greg,1990,perry,applicant->employee,651
+michelle,michelle white,2018-04-30,white,2018-06-25,2021-03-31,michelle white,1.0,2.75,michelle,1474,white,applicant->employee,652
+ryan,ryan gonzalez,2018-05-05,gonzalez,2018-06-22,2021-03-31,ryan gonzalez,1.0,2.75,ryan,1736,gonzalez,applicant->employee,653
+andrew,andrew rivera,2018-05-07,rivera,2018-06-18,2021-03-31,andrew rivera,1.0,2.75,andrew,1458,rivera,applicant->employee,654
+stephanie,stephanie evans,2018-05-08,evans,2018-05-18,2019-06-11,stephanie evans,1.0,1.0,stephanie,1984,evans,applicant->employee,655
+daniel,daniel jenkins,2018-05-11,jenkins,2018-05-21,2021-03-31,daniel jenkins,1.0,2.8333333,daniel,1983,jenkins,applicant->employee,656
+robert,robert lee,2018-05-13,lee,2018-05-30,2020-01-02,robert lee,1.0,1.5833334,robert,1064,lee,applicant->employee,657
+kim,kim hall,2018-05-13,hall,2018-09-18,2021-03-31,kim hall,1.0,2.5,kim,1554,hall,applicant->employee,658
+james,james ramirez,2018-05-14,ramirez,2018-05-20,2021-03-31,james ramirez,1.0,2.8333333,james,1017,ramirez,applicant->employee,659
+sandra,sandra harris,2018-05-17,harris,2018-06-05,2021-03-31,sandra harris,1.0,2.75,sandra,1082,harris,applicant->employee,660
+matthew,matthew hernandez,2018-05-19,hernandez,2018-05-30,2021-03-31,matthew hernandez,1.0,2.8333333,matthew,1782,hernandez,applicant->employee,661
+amanda,amanda williams,2018-05-22,williams,2017-10-27,2021-03-31,sandra williams,0.8500000000000001,3.4166667,sandra,1991,williams,applicant->employee,662
+melissa,melissa evans cole,2018-05-23,evans cole,2018-06-01,2019-01-21,melissa evans cole,1.0,0.5833333,melissa,1561,evans cole,applicant->employee,663
+larry,larry collins,2018-05-23,collins,2018-07-01,2021-03-31,larry collins,1.0,2.6666667,larry,1864,collins,applicant->employee,664
+virginia,virginia morgan,2018-05-24,morgan,2018-06-15,2018-09-25,virginia morgan,1.0,0.25,virginia,1291,morgan,applicant->employee,665
+debra,debra hall,2018-05-24,hall,2018-07-30,2021-03-31,debra hall,1.0,2.6666667,debra,1506,hall,applicant->employee,666
+gary,gary cook,2018-05-25,cook,2018-06-25,2021-03-31,gary cook,1.0,2.75,gary,1827,cook,applicant->employee,667
+carolyn,carolyn sanders,2018-05-29,sanders,2018-07-31,2021-03-31,carolyn sanders,1.0,2.6666667,carolyn,1014,sanders,applicant->employee,668
+ryan,ryan murphy,2018-05-29,murphy,2018-08-04,2021-03-31,ryan murphy,1.0,2.5833333,ryan,1232,murphy,applicant->employee,669
+lisa,lisa edwards,2018-05-30,edwards,2018-06-23,2019-10-22,lisa edwards,1.0,1.25,lisa,1121,edwards,applicant->employee,670
+karen,karen phillips,2018-05-31,phillips,2018-08-10,2019-06-19,karen phillips,1.0,0.8333333,karen,1454,phillips,applicant->employee,671
+brian,brian jones,2018-06-01,jones,2018-08-09,2021-03-31,brian jones,1.0,2.5833333,brian,1754,jones,applicant->employee,672
+samantha,samantha robinson-kim,2018-06-05,robinson kim,2018-08-05,2021-03-31,samantha robinson kim,0.9666666746139526,2.5833333,samantha,1158,robinson-kim,applicant->employee,673
+christopher,christopher hughes griffin,2018-06-06,hughes griffin,2018-08-31,2019-11-07,christopher hughes griffin,1.0,1.1666666,christopher,1090,hughes griffin,applicant->employee,674
+ken,ken rivera,2018-06-08,rivera,2018-08-08,2021-03-31,kenneth rivera,0.8928571462631225,2.5833333,kenneth,1490,rivera,applicant->employee,675
+katherine,katherine thompson,2018-06-08,thompson,2018-06-19,2018-08-14,kathy thompson,0.848888897895813,0.083333336,kathy,1503,thompson,applicant->employee,676
+dorothy,dorothy campbell,2018-06-13,campbell,2018-06-29,2021-03-31,dorothy campbell,1.0,2.75,dorothy,1196,campbell,applicant->employee,677
+frank,frank davis,2018-06-17,davis,2018-07-27,2021-03-31,frank davis,1.0,2.6666667,frank,1224,davis,applicant->employee,678
+timothy,timothy bell,2018-06-21,bell,2018-08-07,2019-04-12,tim bell,0.8642857074737549,0.6666667,tim,1708,bell,applicant->employee,679
+ken,ken campbell,2018-06-29,campbell,2018-07-25,2019-04-30,kenneth campbell,0.8928571462631225,0.75,kenneth,1045,campbell,applicant->employee,680
+brian,brian mitchell,2018-07-02,mitchell,2018-07-17,2020-01-28,brian mitchell,1.0,1.5,brian,1695,mitchell,applicant->employee,681
+timothy,timothy barnes,2018-07-02,barnes,2019-07-18,2021-03-31,timothy barnes,1.0,1.6666666,timothy,1839,barnes,applicant->employee,682
+rachel,rachel thomas,2018-07-04,brooks hamilton,2018-10-17,2019-08-17,rachel brooks hamilton,0.8066666603088379,0.8333333,rachel,1836,thomas,applicant->employee,683
+kim,kim ortiz,2018-07-05,ortiz,2019-07-15,2021-03-31,kim ortiz,1.0,1.6666666,kim,1635,ortiz,applicant->employee,684
+jeffrey,jeffrey baker kim,2018-07-06,baker-kim,2018-09-22,2021-03-31,jeffrey baker-kim,0.9555555582046509,2.5,jeffrey,1324,baker kim,applicant->employee,685
+alexander,alexander walker,2018-07-08,walker,2018-08-17,2019-02-22,alexander walker,1.0,0.5,alexander,1727,walker,applicant->employee,686
+anthony,anthony gutierrez,2018-07-09,gutierrez,2018-08-22,2021-03-31,anthony gutierrez,1.0,2.5833333,anthony,1220,gutierrez,applicant->employee,687
+susan,susan campbell,2018-07-11,campbell,2017-08-23,2018-02-04,stephanie campbell,0.7766666650772095,0.41666666,stephanie,1952,campbell,applicant->employee,688
+michael,michael taylor,2018-07-13,taylor,2018-09-27,2021-03-31,michael taylor,1.0,2.5,michael,1718,taylor,applicant->employee,689
+kim,kim walker,2018-07-13,walker,2018-08-08,2021-03-31,kimberly walker,0.875,2.5833333,kimberly,1884,walker,applicant->employee,690
+alexander,alexander collins,2018-07-14,collins,2018-08-01,2021-03-31,alexander collins,1.0,2.5833333,alexander,1349,collins,applicant->employee,691
+thomas,thomas white,2018-07-14,white,2017-07-20,2019-10-26,christopher white,0.7242424249649048,2.25,christopher,1426,white,applicant->employee,692
+ryan,ryan nguyen,2018-07-16,nguyen,2014-08-06,2016-01-06,sandra nguyen,0.7833333253860474,1.4166666,sandra,1813,nguyen,applicant->employee,693
+kim,kim sullivan,2018-07-17,sullivan,2018-12-18,2019-08-24,kim sullivan,1.0,0.6666667,kim,1058,sullivan,applicant->employee,694
+beth,beth wright,2018-07-22,wright,2018-08-10,2019-05-07,beth wright,1.0,0.6666667,beth,1770,wright,applicant->employee,695
+lisa,lisa bell,2018-07-23,bell,2018-08-23,2021-03-31,lisa bell,1.0,2.5833333,lisa,1241,bell,applicant->employee,696
+sarah,sarah foster,2018-07-25,rogers,2019-03-15,2021-03-31,sarah rogers,0.8,2.0,sarah,1066,foster,applicant->employee,697
+jerry,jerry king,2018-07-26,king,2019-06-20,2021-03-31,jerry king,1.0,1.75,jerry,1380,king,applicant->employee,698
+nicholas,nicholas wood,2018-08-01,wood,2018-08-14,2019-04-27,nicholas wood,1.0,0.6666667,nicholas,1719,wood,applicant->employee,699
+katherine,katherine evans,2018-08-09,evans,2018-08-17,2018-11-30,kathy evans,0.848888897895813,0.25,kathy,1124,evans,applicant->employee,700
+patrick,patrick richardson,2018-08-13,richardson,2018-10-07,2019-03-24,patrick richardson,1.0,0.41666666,patrick,1226,richardson,applicant->employee,701
+stephen,stephen perry,2018-08-15,myers,2016-11-04,2019-04-30,stephen myers,0.7799999952316284,2.4166667,stephen,1307,perry,applicant->employee,702
+nancy,nancy hill,2018-08-18,hill,2019-03-01,2021-03-31,nancy hill,1.0,2.0,nancy,1314,hill,applicant->employee,703
+sandra,sandra ramirez,2018-08-19,ramirez,2018-10-20,2019-11-22,sandra ramirez,1.0,1.0833334,sandra,1462,ramirez,applicant->employee,704
+jeffrey,jeffrey scott,2018-08-19,scott,2018-10-15,2019-06-23,jeffrey scott,1.0,0.6666667,jeffrey,1631,scott,applicant->employee,705
+linda,linda evans,2018-08-23,evans,2018-08-28,2021-03-31,linda evans,1.0,2.5833333,linda,1327,evans,applicant->employee,706
+bill,bill green,2018-08-24,griffin,2016-12-13,2018-06-21,bill griffin,0.8057142972946167,1.5,bill,1199,green,applicant->employee,707
+scott,scott martinez,2018-08-26,martinez,2018-09-16,2021-03-31,scott martinez,1.0,2.5,scott,1419,martinez,applicant->employee,708
+kathleen,kathleen hill,2018-08-27,hill,2018-09-07,2021-03-31,kathleen hill,1.0,2.5,kathleen,1053,hill,applicant->employee,709
+frank,frank morales hayes,2018-09-03,morales hayes,2018-09-27,2021-03-31,frank morales hayes,1.0,2.5,frank,1479,morales hayes,applicant->employee,710
+timothy,timothy flores,2018-09-06,flores,2018-11-04,2019-05-28,tim flores,0.8642857074737549,0.5,tim,1622,flores,applicant->employee,711
+bill,bill rogers,2018-09-12,morris,2014-12-01,2016-02-28,bill morris,0.7666666746139527,1.1666666,bill,1823,rogers,applicant->employee,712
+beth,beth mitchell,2018-09-20,mitchell,2018-11-11,2020-01-26,elizabeth mitchell,0.8611111164093017,1.1666666,elizabeth,1270,mitchell,applicant->employee,713
+brian,brian johnson-griffin,2018-09-28,johnson griffin,2018-10-20,2021-03-31,brian johnson griffin,0.9733333349227905,2.4166667,brian,1258,johnson-griffin,applicant->employee,714
+nancy,nancy stewart,2018-10-07,stewart,2018-10-31,2021-03-31,nancy stewart,1.0,2.4166667,nancy,1075,stewart,applicant->employee,715
+anna,anna jones,2018-10-07,jones,2018-01-06,2018-02-08,amanda jones,0.8333333253860473,0.083333336,amanda,1625,jones,applicant->employee,716
+sharon,sharon ward,2018-10-07,ward,2018-10-17,2021-03-31,sharon ward,1.0,2.4166667,sharon,1356,ward,applicant->employee,717
+brenda,brenda hill chavez,2018-10-10,hill chavez,2018-12-01,2019-04-14,brenda hill chavez,1.0,0.33333334,brenda,1443,hill chavez,applicant->employee,718
+robert,robert wood graham,2018-10-13,wood graham,2018-12-16,2021-03-31,robert wood graham,1.0,2.25,robert,1940,wood graham,applicant->employee,719
+karen,karen wood,2018-10-14,wood,2018-02-17,2021-03-31,alexander wood,0.7933333396911622,3.0833333,alexander,1895,wood,applicant->employee,720
+brenda,brenda hughes,2018-10-14,hughes,2018-11-17,2021-03-31,brenda hughes,1.0,2.3333333,brenda,1830,hughes,applicant->employee,721
+kevin,kevin murphy,2018-10-15,murphy,2018-10-17,2021-03-31,kevin murphy,1.0,2.4166667,kevin,1601,murphy,applicant->employee,722
+angela,angela torres,2018-10-17,torres,2019-01-15,2019-03-02,angela torres,1.0,0.083333336,angela,1685,torres,applicant->employee,723
+catherine,catherine perry,2018-10-24,reyes,2017-08-14,2021-03-31,catherine reyes,0.8200000047683715,3.5833333,catherine,1010,perry,applicant->employee,724
+stephanie,stephanie murphy,2018-10-26,murphy,2018-11-24,2021-03-31,stephanie murphy,1.0,2.3333333,stephanie,1510,murphy,applicant->employee,725
+ashley,ashley powell,2018-10-28,powell,2018-11-19,2019-02-01,ashley powell,1.0,0.16666667,ashley,1613,powell,applicant->employee,726
+carolyn,carolyn hernandez-gibson,2018-10-30,hernandez gibson,2019-01-02,2021-03-31,carolyn hernandez gibson,0.975,2.1666667,carolyn,1052,hernandez-gibson,applicant->employee,727
+christine,christine gray,2018-10-30,gray,2019-09-05,2021-03-31,christine gray,1.0,1.5,christine,1918,gray,applicant->employee,728
+karen,karen ortiz,2018-10-31,ortiz,2018-11-10,2021-03-31,karen ortiz,1.0,2.3333333,karen,1204,ortiz,applicant->employee,729
+larry,larry reed,2018-11-02,reed,2018-12-09,2021-03-31,larry reed,1.0,2.25,larry,1088,reed,applicant->employee,730
+virginia,virginia young,2018-11-11,young,2017-08-27,2019-01-20,brian young,0.8099999904632569,1.3333334,brian,1748,young,applicant->employee,731
+daniel,daniel roberts,2018-11-11,roberts,2019-01-14,2021-03-31,daniel roberts,1.0,2.1666667,daniel,1919,roberts,applicant->employee,732
+larry,larry murphy,2018-11-12,murphy,2019-01-19,2021-03-31,larry murphy,1.0,2.1666667,larry,1239,murphy,applicant->employee,733
+samuel,samuel adams henderson,2018-11-15,adams henderson,2019-01-01,2019-12-26,samuel adams henderson,1.0,0.9166667,samuel,1734,adams henderson,applicant->employee,734
+stephanie,stephanie cook,2018-11-19,cook,2019-01-09,2021-03-31,stephanie cook,1.0,2.1666667,stephanie,1187,cook,applicant->employee,735
+bill,bill white,2018-11-19,west,2018-02-25,2021-03-31,bill west,0.7700000047683716,3.0833333,bill,1521,white,applicant->employee,736
+linda,linda foster,2018-11-20,foster,2019-01-04,2021-03-31,linda foster,1.0,2.1666667,linda,1724,foster,applicant->employee,737
+dennis,dennis white,2018-11-20,white,2018-11-09,2021-03-31,benjamin white,0.7333333253860473,2.3333333,benjamin,1602,white,applicant->employee,738
+janet,janet watson,2018-11-21,watson,2018-12-06,2019-03-19,janet watson,1.0,0.25,janet,1585,watson,applicant->employee,739
+virginia,virginia flores,2018-11-22,rodriguez simmons,2019-03-06,2021-03-31,virginia rodriguez simmons,0.7656862735748291,2.0,virginia,1499,flores,applicant->employee,740
+nicole,nicole lopez,2018-11-23,gomez,2014-09-06,2016-08-23,nicole gomez,0.8400000095367431,1.9166666,nicole,1975,lopez,applicant->employee,741
+carolyn,carolyn walker,2018-11-23,walker,2016-09-26,2019-04-28,larry walker,0.8142857074737548,2.5833333,larry,1167,walker,applicant->employee,742
+karen,karen reyes,2018-11-24,reyes,2019-01-25,2019-09-12,karen reyes,1.0,0.5833333,karen,1162,reyes,applicant->employee,743
+john,john jones,2018-11-28,james,2017-12-13,2021-03-31,joshua james,0.6900000095367431,3.25,joshua,1150,jones,applicant->employee,744
+katherine,katherine harris,2018-11-28,harris,2019-02-10,2019-12-17,kathy harris,0.848888897895813,0.8333333,kathy,1871,harris,applicant->employee,745
+dorothy,dorothy lopez,2018-11-30,nelson,2020-01-24,2021-03-31,dorothy nelson,0.7200000047683716,1.1666666,dorothy,1305,lopez,applicant->employee,746
+david,david miller,2018-12-05,miller,2018-12-10,2021-03-31,david miller,1.0,2.25,david,1607,miller,applicant->employee,747
+laura,laura anderson,2018-12-06,anderson,2018-12-07,2021-03-31,laura anderson,1.0,2.25,laura,1223,anderson,applicant->employee,748
+stephanie,stephanie sullivan,2018-12-08,sullivan,2019-01-08,2021-03-31,stephanie sullivan,1.0,2.1666667,stephanie,1480,sullivan,applicant->employee,749
+jeffrey,jeffrey martinez,2018-12-14,martinez,2018-12-16,2019-11-01,jeffrey martinez,1.0,0.8333333,jeffrey,1451,martinez,applicant->employee,750
+sarah,sarah rogers,2018-12-15,rogers,2019-03-15,2021-03-31,sarah rogers,1.0,2.0,sarah,1066,rogers,applicant->employee,751
+jeffrey,jeffrey miller,2018-12-17,miller,2019-01-11,2019-05-04,jeffrey miller,1.0,0.25,jeffrey,1091,miller,applicant->employee,752
+katherine,katherine torres,2018-12-18,torres,2019-01-11,2019-02-15,kathy torres,0.848888897895813,0.083333336,kathy,1592,torres,applicant->employee,753
+dennis,dennis wood,2018-12-21,wood,2019-01-11,2021-03-31,dennis wood,1.0,2.1666667,dennis,1774,wood,applicant->employee,754
+laura,laura diaz,2018-12-23,diaz,2019-03-03,2021-03-31,laura diaz,1.0,2.0,laura,1624,diaz,applicant->employee,755
+rachel,rachel moore,2018-12-23,moore,2019-02-25,2021-03-31,rachel moore,1.0,2.0833333,rachel,1958,moore,applicant->employee,756
+charles,charles cox,2018-12-24,cox,2019-01-29,2021-03-31,charles cox,1.0,2.1666667,charles,1098,cox,applicant->employee,757
+ken,ken martinez,2018-12-24,martinez,2018-12-26,2021-03-31,kenneth martinez,0.8928571462631225,2.25,kenneth,1576,martinez,applicant->employee,758
+larry,larry james,2018-12-25,james,2019-02-10,2021-03-31,larry james,1.0,2.0833333,larry,1432,james,applicant->employee,759
+rebecca,rebecca evans,2018-12-25,evans,2019-02-23,2020-01-05,rebecca evans,1.0,0.8333333,rebecca,1875,evans,applicant->employee,760
+sarah,sarah murphy,2018-12-27,murphy,2017-08-12,2021-03-31,thomas murphy,0.7599999904632568,3.5833333,thomas,1822,murphy,applicant->employee,761
+thomas,thomas long,2018-12-27,long,2019-02-10,2021-03-31,thomas long,1.0,2.0833333,thomas,1791,long,applicant->employee,762
+sharon,sharon ramirez henderson,2018-12-31,ramirez henderson,2019-02-16,2021-03-31,sharon ramirez henderson,1.0,2.0833333,sharon,1242,ramirez henderson,applicant->employee,763
+catherine,catherine williams,2019-01-02,williams,2019-01-17,2019-02-26,catherine williams,1.0,0.083333336,catherine,1713,williams,applicant->employee,764
+samuel,samuel bell,2019-01-06,bell,2019-03-06,2021-03-31,samuel bell,1.0,2.0,samuel,1227,bell,applicant->employee,765
+catherine,catherine sanders,2019-01-09,sanders,2019-03-14,2021-03-31,catherine sanders,1.0,2.0,catherine,1092,sanders,applicant->employee,766
+charles,charles flores,2019-01-21,flores,2017-08-01,2018-12-02,chris flores,0.8742857217788697,1.3333334,chris,1385,flores,applicant->employee,767
+thomas,thomas king,2019-01-24,king,2019-01-30,2021-03-31,thomas king,1.0,2.1666667,thomas,1756,king,applicant->employee,768
+beth,beth morgan,2019-01-24,morgan,2019-02-11,2019-06-30,elizabeth morgan,0.8611111164093017,0.33333334,elizabeth,1911,morgan,applicant->employee,769
+dorothy,dorothy barnes,2019-01-29,barnes,2019-02-07,2019-06-05,dorothy barnes,1.0,0.25,dorothy,1099,barnes,applicant->employee,770
+daniel,daniel diaz,2019-02-05,diaz,2019-02-10,2021-03-31,daniel diaz,1.0,2.0833333,daniel,1765,diaz,applicant->employee,771
+deborah,deborah rivera,2019-02-06,rivera,2019-02-16,2019-12-09,deborah rivera,1.0,0.75,deborah,1992,rivera,applicant->employee,772
+jessica,jessica clark,2019-02-09,clark,2016-01-31,2018-01-02,chris clark,0.7342857122421265,1.9166666,chris,1642,clark,applicant->employee,773
+angela,angela morgan,2019-02-13,morgan,2019-03-24,2021-03-31,angela morgan,1.0,2.0,angela,1928,morgan,applicant->employee,774
+virginia,virginia rodriguez-simmons,2019-02-14,rodriguez simmons,2019-03-06,2021-03-31,virginia rodriguez simmons,0.9764705896377563,2.0,virginia,1499,rodriguez-simmons,applicant->employee,775
+nicole,nicole gutierrez gonzales,2019-02-17,gutierrez gonzales,2019-04-19,2019-10-07,nicole gutierrez gonzales,1.0,0.41666666,nicole,1097,gutierrez gonzales,applicant->employee,776
+thomas,thomas bennett,2019-02-21,bennett,2019-03-11,2021-03-31,thomas bennett,1.0,2.0,thomas,1720,bennett,applicant->employee,777
+justin,justin morgan,2019-02-28,morgan,2019-04-11,2019-08-27,justin morgan,1.0,0.33333334,justin,1531,morgan,applicant->employee,778
+ken,ken edwards,2019-03-05,ward,2019-06-26,2021-03-31,ken ward,0.8928571462631225,1.75,ken,1672,edwards,applicant->employee,779
+karen,karen scott,2019-03-05,scott,2019-03-10,2021-03-31,karen scott,1.0,2.0,karen,1717,scott,applicant->employee,780
+nicole,nicole long,2019-03-05,gutierrez gonzales,2019-04-19,2019-10-07,nicole gutierrez gonzales,0.7555555582046509,0.41666666,nicole,1097,long,applicant->employee,781
+sandra,sandra fisher simmons,2019-03-09,fisher-simmons,2019-04-25,2019-05-25,sandra fisher-simmons,0.9714285612106324,0.083333336,sandra,1538,fisher simmons,applicant->employee,782
+timothy,timothy sanders-bryant,2019-03-13,sanders-bryant,2019-03-18,2019-12-24,timothy sanders-bryant,1.0,0.75,timothy,1262,sanders-bryant,applicant->employee,783
+beth,beth ward,2019-03-18,ward,2019-06-01,2019-09-07,elizabeth ward,0.8611111164093017,0.25,elizabeth,1785,ward,applicant->employee,784
+christopher,christopher cooper,2019-03-21,cooper,2019-05-07,2021-03-31,chris cooper,0.8772727251052856,1.8333334,chris,1111,cooper,applicant->employee,785
+sandra,sandra edwards bryant,2019-03-22,edwards-bryant,2019-06-17,2021-03-31,sandra edwards-bryant,0.9714285612106324,1.75,sandra,1841,edwards bryant,applicant->employee,786
+jerry,jerry harris,2019-03-24,ramos,2018-09-03,2019-04-27,jerry ramos,0.753333330154419,0.5833333,jerry,1380,harris,applicant->employee,787
+rachel,rachel howard,2019-03-24,howard,2019-05-10,2021-03-31,rachel howard,1.0,1.8333334,rachel,1956,howard,applicant->employee,788
+jonathan,jonathan long hamilton,2019-03-27,long hamilton,2019-04-12,2019-07-02,jonathan long hamilton,1.0,0.16666667,jonathan,1953,long hamilton,applicant->employee,789
+ryan,ryan barnes,2019-03-29,barnes,2019-10-02,2020-03-05,ryan barnes,1.0,0.41666666,ryan,1660,barnes,applicant->employee,790
+jessica,jessica price,2019-04-01,price,2019-04-04,2021-03-31,jessica price,1.0,1.9166666,jessica,1433,price,applicant->employee,791
+mary,mary thompson-jordan,2019-04-02,thompson-jordan,2019-05-04,2021-03-31,mary thompson-jordan,1.0,1.8333334,mary,1363,thompson-jordan,applicant->employee,792
+patrick,patrick watson,2019-04-02,watson,2019-04-05,2021-03-31,patrick watson,1.0,1.9166666,patrick,1570,watson,applicant->employee,793
+samantha,samantha hall,2019-04-07,hall,2019-05-20,2021-03-31,samantha hall,1.0,1.8333334,samantha,1221,hall,applicant->employee,794
+frank,frank kelly,2019-04-10,kelly,2019-06-15,2021-03-31,frank kelly,1.0,1.75,frank,1129,kelly,applicant->employee,795
+beth,beth wood,2019-04-14,wood,2019-09-04,2019-10-25,beth wood,1.0,0.083333336,beth,1567,wood,applicant->employee,796
+michelle,michelle turner,2019-04-19,turner,2019-05-04,2021-03-31,michelle turner,1.0,1.8333334,michelle,1697,turner,applicant->employee,797
+margaret,margaret bell,2019-04-22,bell,2019-07-17,2021-03-31,margaret bell,1.0,1.6666666,margaret,1811,bell,applicant->employee,798
+timothy,timothy morris,2019-04-24,morris,2019-05-14,2019-05-29,timothy morris,1.0,0.0,timothy,1699,morris,applicant->employee,799
+barbara,barbara ross,2019-04-25,ross,2019-04-27,2021-03-31,barbara ross,1.0,1.9166666,barbara,1379,ross,applicant->employee,800
+james,james gomez,2019-04-25,gomez,2019-05-08,2020-03-19,james gomez,1.0,0.8333333,james,1673,gomez,applicant->employee,801
+susan,susan reyes,2019-04-26,perry,2015-07-12,2017-12-10,susan perry,0.8200000047683715,2.3333333,susan,1957,reyes,applicant->employee,802
+laura,laura campbell,2019-04-27,campbell,2019-05-12,2021-03-31,laura campbell,1.0,1.8333334,laura,1604,campbell,applicant->employee,803
+patrick,patrick moore,2019-05-01,moore,2019-07-08,2021-03-31,patrick moore,1.0,1.6666666,patrick,1096,moore,applicant->employee,804
+laura,laura turner,2019-05-03,nguyen,2019-10-09,2021-03-31,laura nguyen,0.7333333253860473,1.4166666,laura,1012,turner,applicant->employee,805
+justin,justin moore,2019-05-05,moore,2019-06-21,2020-01-10,justin moore,1.0,0.5,justin,1659,moore,applicant->employee,806
+brian,brian richardson,2019-05-07,richardson,2019-07-07,2021-03-31,brian richardson,1.0,1.6666666,brian,1712,richardson,applicant->employee,807
+david,david baker,2019-05-11,bryant,2018-07-07,2020-01-28,david bryant,0.7200000047683716,1.5,david,1113,baker,applicant->employee,808
+deborah,deborah sullivan-gonzales,2019-05-12,sullivan gonzales,2019-07-08,2021-03-31,deborah sullivan gonzales,0.9764705896377563,1.6666666,deborah,1996,sullivan-gonzales,applicant->employee,809
+timothy,timothy hall,2019-05-13,hall,2020-01-08,2021-03-31,timothy hall,1.0,1.1666666,timothy,1352,hall,applicant->employee,810
+amanda,amanda jenkins,2019-05-13,jones,2018-01-06,2018-02-08,amanda jones,0.8028571367263795,0.083333336,amanda,1625,jenkins,applicant->employee,811
+patrick,patrick green,2019-05-14,green,2019-05-23,2021-03-31,patrick green,1.0,1.8333334,patrick,1995,green,applicant->employee,812
+anthony,anthony ortiz,2019-05-24,ortiz,2019-07-26,2021-03-31,anthony ortiz,1.0,1.6666666,anthony,1422,ortiz,applicant->employee,813
+samantha,samantha lewis,2019-05-27,lewis,2019-07-19,2021-03-31,samantha lewis,1.0,1.6666666,samantha,1588,lewis,applicant->employee,814
+virginia,virginia nguyen,2019-05-28,nguyen,2015-12-04,2017-06-26,brenda nguyen,0.775,1.5,brenda,1563,nguyen,applicant->employee,815
+janet,janet jackson,2019-05-28,jackson,2019-07-14,2020-02-06,janet jackson,1.0,0.5,janet,1445,jackson,applicant->employee,816
+shirley,shirley foster,2019-05-29,foster,2019-08-17,2021-03-31,shirley foster,1.0,1.5833334,shirley,1500,foster,applicant->employee,817
+pam,pam torres,2019-05-29,torres,2019-08-21,2021-03-31,pamela torres,0.8833333253860474,1.5833334,pamela,1821,torres,applicant->employee,818
+jacob,jacob long,2019-05-30,long,2019-07-24,2019-08-15,jacob long,1.0,0.0,jacob,1387,long,applicant->employee,819
+nicole,nicole evans,2019-06-01,evans,2019-10-15,2020-02-05,nicole evans,1.0,0.25,nicole,1505,evans,applicant->employee,820
+robert,robert gray,2019-06-09,gray,2019-06-12,2021-03-31,robert gray,1.0,1.75,robert,1512,gray,applicant->employee,821
+amy,amy hall,2019-06-13,hall,2019-08-25,2021-03-31,amy hall,1.0,1.5833334,amy,1073,hall,applicant->employee,822
+samuel,samuel williams,2019-06-13,williams,2019-07-02,2021-03-31,samuel williams,1.0,1.6666666,samuel,1268,williams,applicant->employee,823
+alexander,alexander rivera,2019-06-20,rivera,2019-08-04,2021-03-31,alexander rivera,1.0,1.5833334,alexander,1118,rivera,applicant->employee,824
+cynthia,cynthia morris,2019-06-24,morris,2019-08-13,2021-03-31,cynthia morris,1.0,1.5833334,cynthia,1656,morris,applicant->employee,825
+beth,beth brown,2019-06-25,brown,2019-07-08,2020-01-24,elizabeth brown,0.8611111164093017,0.5,elizabeth,1916,brown,applicant->employee,826
+emma,emma reed,2019-06-30,reed,2019-08-19,2021-03-31,emma reed,1.0,1.5833334,emma,1209,reed,applicant->employee,827
+nicole,nicole moore-kim,2019-07-02,moore kim,2019-09-16,2019-11-03,nicole moore kim,0.9555555582046509,0.083333336,nicole,1600,moore-kim,applicant->employee,828
+ken,ken martin,2019-07-03,martin,2019-08-30,2021-03-31,kenneth martin,0.8928571462631225,1.5833334,kenneth,1061,martin,applicant->employee,829
+charles,charles gomez,2019-07-04,gomez,2019-07-30,2021-03-31,charles gomez,1.0,1.6666666,charles,1843,gomez,applicant->employee,830
+frank,frank rivera,2019-07-05,rivera,2019-08-08,2021-03-31,frank rivera,1.0,1.5833334,frank,1078,rivera,applicant->employee,831
+ashley,ashley clark,2019-07-12,clark,2019-09-02,2019-10-27,ashley clark,1.0,0.083333336,ashley,1376,clark,applicant->employee,832
+samantha,samantha miller,2019-07-14,miller,2019-08-23,2021-03-31,samantha miller,1.0,1.5833334,samantha,1057,miller,applicant->employee,833
+steven,steven evans,2019-07-14,evans,2018-05-18,2019-06-11,stephanie evans,0.7777777671813966,1.0,stephanie,1984,evans,applicant->employee,834
+jennifer,jennifer davis,2019-07-19,davis,2018-07-27,2021-03-31,frank davis,0.7200000047683716,2.6666667,frank,1224,davis,applicant->employee,835
+thomas,thomas jackson,2019-07-22,jackson,2019-07-26,2021-03-31,thomas jackson,1.0,1.6666666,thomas,1276,jackson,applicant->employee,836
+michael,michael smith,2019-07-23,smith,2019-09-15,2021-03-31,michael smith,1.0,1.5,michael,1595,smith,applicant->employee,837
+nicholas,nicholas watson,2019-08-01,watson,2019-10-11,2021-03-31,nicholas watson,1.0,1.4166666,nicholas,1216,watson,applicant->employee,838
+carolyn,carolyn anderson,2019-08-03,anderson,2019-10-09,2021-03-31,carolyn anderson,1.0,1.4166666,carolyn,1914,anderson,applicant->employee,839
+margaret,margaret walker,2019-08-04,walker,2019-10-08,2020-03-18,margaret walker,1.0,0.41666666,margaret,1252,walker,applicant->employee,840
+ruth,ruth russell-ramos,2019-08-09,russell-ramos,2019-09-17,2021-03-31,ruth russell-ramos,1.0,1.5,ruth,1896,russell-ramos,applicant->employee,841
+bill,bill perez,2019-08-14,perry,2016-11-11,2018-07-02,bill perry,0.8200000047683715,1.5833334,bill,1119,perez,applicant->employee,842
+thomas,thomas gray,2019-08-15,gray,2019-08-24,2021-03-31,thomas gray,1.0,1.5833334,thomas,1147,gray,applicant->employee,843
+robert,robert morris,2019-08-17,morris,2019-10-05,2021-03-31,robert morris,1.0,1.4166666,robert,1470,morris,applicant->employee,844
+susan,susan adams,2019-08-20,davis,2019-03-26,2021-03-31,susan davis,0.8299999952316284,2.0,susan,1461,adams,applicant->employee,845
+christine,christine thompson,2019-08-25,thompson,2016-01-27,2017-09-11,robert thompson,0.7,1.5833334,robert,1959,thompson,applicant->employee,846
+jonathan,jonathan richardson,2019-08-25,richardson,2019-09-01,2020-01-13,jonathan richardson,1.0,0.33333334,jonathan,1367,richardson,applicant->employee,847
+ronald,ronald nelson,2019-08-26,nelson,2019-09-16,2021-03-31,ronald nelson,1.0,1.5,ronald,1516,nelson,applicant->employee,848
+emma,emma cruz,2019-08-27,cruz,2019-10-28,2021-03-31,emma cruz,1.0,1.4166666,emma,1535,cruz,applicant->employee,849
+kevin,kevin miller,2019-09-03,miller,2019-11-13,2021-03-31,kevin miller,1.0,1.3333334,kevin,1530,miller,applicant->employee,850
+katherine,katherine jenkins,2019-09-05,jenkins,2019-10-04,2021-03-31,kathy jenkins,0.848888897895813,1.4166666,kathy,1849,jenkins,applicant->employee,851
+susan,susan sullivan,2019-09-07,sullivan,2019-01-08,2021-03-31,stephanie sullivan,0.7766666650772095,2.1666667,stephanie,1480,sullivan,applicant->employee,852
+michelle,michelle torres,2019-09-14,torres,2019-09-17,2021-03-31,michelle torres,1.0,1.5,michelle,1820,torres,applicant->employee,853
+michelle,michelle sanders,2019-09-15,anderson,2018-04-23,2020-02-07,michelle anderson,0.875,1.75,michelle,1040,sanders,applicant->employee,854
+joseph,joseph edwards,2019-09-16,edwards,2019-12-05,2021-03-31,joseph edwards,1.0,1.25,joseph,1581,edwards,applicant->employee,855
+larry,larry cruz,2019-09-18,cruz,2019-11-30,2021-03-31,larry cruz,1.0,1.3333334,larry,1817,cruz,applicant->employee,856
+christine,christine collins,2019-09-19,collins,2019-10-13,2021-03-31,christine collins,1.0,1.4166666,christine,1571,collins,applicant->employee,857
+michelle,michelle myers,2019-09-21,myers,2019-10-22,2021-03-31,michelle myers,1.0,1.4166666,michelle,1874,myers,applicant->employee,858
+ronald,ronald gutierrez,2019-09-24,gutierrez,2019-12-10,2021-03-31,ronald gutierrez,1.0,1.25,ronald,1263,gutierrez,applicant->employee,859
+gary,gary james,2019-09-26,james,2019-12-23,2021-03-31,gary james,1.0,1.25,gary,1372,james,applicant->employee,860
+donald,donald moore,2019-09-28,moore,2019-11-24,2021-03-31,donald moore,1.0,1.3333334,donald,1714,moore,applicant->employee,861
+ronald,ronald carter-gonzales,2019-09-29,carter gonzales,2019-11-26,2021-03-31,ronald carter gonzales,0.9733333349227905,1.3333334,ronald,1739,carter-gonzales,applicant->employee,862
+laura,laura nguyen,2019-10-02,nguyen,2019-10-09,2021-03-31,laura nguyen,1.0,1.4166666,laura,1012,nguyen,applicant->employee,863
+mary,mary brooks,2019-10-02,brooks,2019-11-28,2020-02-28,mary brooks,1.0,0.25,mary,1188,brooks,applicant->employee,864
+bill,bill reyes,2019-10-05,perry,2016-11-11,2018-07-02,bill perry,0.8200000047683715,1.5833334,bill,1119,reyes,applicant->employee,865
+steven,steven sanders,2019-10-06,sanders,2019-03-14,2021-03-31,catherine sanders,0.7222222328186035,2.0,catherine,1092,sanders,applicant->employee,866
+samantha,samantha richardson,2019-10-08,richardson,2019-10-31,2021-03-31,samantha richardson,1.0,1.4166666,samantha,1488,richardson,applicant->employee,867
+amy,amy turner,2019-10-09,turner,2019-12-02,2021-03-31,amy turner,1.0,1.25,amy,1373,turner,applicant->employee,868
+rebecca,rebecca moore,2019-10-10,moore,2019-02-25,2021-03-31,rachel moore,0.8047619104385376,2.0833333,rachel,1958,moore,applicant->employee,869
+rebecca,rebecca davis,2019-10-18,davis,2019-11-28,2020-03-06,rebecca davis,1.0,0.25,rebecca,1041,davis,applicant->employee,870
+debra,debra foster,2019-10-19,foster,2020-01-08,2021-03-31,debra foster,1.0,1.1666666,debra,1206,foster,applicant->employee,871
+emma,emma jones,2019-10-27,jones,2019-11-24,2021-03-31,emma jones,1.0,1.3333334,emma,1762,jones,applicant->employee,872
+bill,bill smith,2019-10-31,smith,2020-03-06,2021-03-31,bill smith,1.0,1.0,bill,1156,smith,applicant->employee,873
+samuel,samuel clark-gibson,2019-11-11,clark gibson,2019-11-21,2021-03-31,samuel clark gibson,0.9666666746139526,1.3333334,samuel,1228,clark-gibson,applicant->employee,874
+ruth,ruth turner,2019-11-12,turner,2019-12-21,2021-03-31,ruth turner,1.0,1.25,ruth,1382,turner,applicant->employee,875
+dennis,dennis williams,2019-11-22,williams,2019-12-16,2021-03-31,dennis williams,1.0,1.25,dennis,1357,williams,applicant->employee,876
+brian,brian evans,2019-11-26,evans,2019-11-30,2021-03-31,brian evans,1.0,1.3333334,brian,1886,evans,applicant->employee,877
+amanda,amanda thompson,2019-11-28,thompson,2020-02-02,2021-03-31,amanda thompson,1.0,1.0833334,amanda,1179,thompson,applicant->employee,878
+thomas,thomas myers,2019-12-02,perry,2017-06-12,2017-11-04,thomas perry,0.7799999952316284,0.33333334,thomas,1741,myers,applicant->employee,879
+katherine,katherine white,2019-12-08,white,2017-07-16,2021-03-31,catherine white,0.9555555582046509,3.6666667,catherine,1139,white,applicant->employee,880
+dorothy,dorothy nelson,2019-12-10,nelson,2020-01-24,2021-03-31,dorothy nelson,1.0,1.1666666,dorothy,1305,nelson,applicant->employee,881
+mary,mary watson,2019-12-11,watson,2020-02-12,2021-03-31,mary watson,1.0,1.0833334,mary,1679,watson,applicant->employee,882
+melissa,melissa myers,2019-12-13,anderson,2017-06-27,2018-07-11,melissa anderson,0.7950000047683716,1.0,melissa,1135,myers,applicant->employee,883
+patricia,patricia roberts,2019-12-13,scott,2018-02-25,2019-09-09,patricia scott,0.7457142829895019,1.5,patricia,1345,roberts,applicant->employee,884
+virginia,virginia williams,2019-12-14,williams,2020-02-01,2021-03-31,virginia williams,1.0,1.0833334,virginia,1877,williams,applicant->employee,885
+alexander,alexander foster,2019-12-15,foster,2020-01-12,2021-03-31,alexander foster,1.0,1.1666666,alexander,1106,foster,applicant->employee,886
+jeffrey,jeffrey sanchez,2019-12-17,sanchez,2019-12-24,2021-03-31,jeffrey sanchez,1.0,1.25,jeffrey,1974,sanchez,applicant->employee,887
+melissa,melissa hernandez,2019-12-21,hernandez,2020-01-17,2021-03-31,melissa hernandez,1.0,1.1666666,melissa,1689,hernandez,applicant->employee,888
+alexander,alexander brown,2019-12-26,brown,2020-02-05,2021-03-31,alexander brown,1.0,1.0833334,alexander,1425,brown,applicant->employee,889
+george,george wilson,2019-12-31,wilson,2020-01-05,2021-03-31,george wilson,1.0,1.1666666,george,1968,wilson,applicant->employee,890
+samuel,samuel powell,2020-01-01,powell,2020-01-25,2020-03-09,samuel powell,1.0,0.083333336,samuel,1575,powell,applicant->employee,891
+katherine,katherine sanchez,2020-01-05,sanchez,2020-02-18,2021-03-31,kathy sanchez,0.848888897895813,1.0833334,kathy,1182,sanchez,applicant->employee,892
+dorothy,dorothy hernandez,2020-01-15,hernandez,2020-02-08,2021-03-31,dorothy hernandez,1.0,1.0833334,dorothy,1802,hernandez,applicant->employee,893
+donna,donna cox,2020-01-15,cox,2020-03-02,2021-03-31,donna cox,1.0,1.0,donna,1979,cox,applicant->employee,894
+rachel,rachel ramirez,2020-01-26,ramirez,2020-02-06,2021-03-31,rachel ramirez,1.0,1.0833334,rachel,1208,ramirez,applicant->employee,895
+sharon,sharon howard,2020-01-27,howard,2020-01-30,2021-03-31,sharon howard,1.0,1.1666666,sharon,1110,howard,applicant->employee,896
+deborah,deborah morales,2020-01-29,morales,2020-02-26,2021-03-31,deborah morales,1.0,1.0833334,deborah,1942,morales,applicant->employee,897
+stephanie,stephanie martin-bryant,2020-02-05,martin-bryant,2020-02-20,2021-03-31,stephanie martin-bryant,1.0,1.0833334,stephanie,1682,martin-bryant,applicant->employee,898
+samuel,samuel foster,2020-03-10,foster,2017-09-28,2019-10-15,kimberly foster,0.775,2.0,kimberly,1794,foster,applicant->employee,899
+mark,mark johnson,2020-03-19,watson,2018-06-26,2018-11-20,mark watson,0.7928571462631226,0.33333334,mark,1165,johnson,applicant->employee,900
