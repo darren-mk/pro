@@ -1,0 +1,31 @@
+Part 1: Justifying Scrabble's letter point values
+
+Program:
+The point value assigned to each letter in the game Scrabble is based on how frequently the letter occurs naturally in text. The game is available in many languages, with different point values of its letters for each language (if interested, see this wikipedia page). In this part, we will try to justify those point values for English.
+
+Write a program (name it letterfreq.c) that counts the frequency of each letter of the alphabet as they occur in a text contained in a text file.
+
+The program should prompt the user for the text file's name (you may assume the file name is at most 30 characters), and as it reads all the characters from that file it will tally the frequency for each letter of the alphabet (case-insensitive), along with some other information, as described below. You will need to read the file's content one character at a time.
+
+The data structure that you will use will be an integer array with 26 elements. It will eventually contain the 26 numbers that will represent the number of times each of the 26 letters of the alphabet occurs in that file. The counting should obviously be case insensitive. Do not hard-code the 26 throughout your program; the number 26 should appear only once in your whole program, either as a const int or as a macro (you may make it (and only it) global if you wish); think of it as preparing your program to be used with a text of any alphabet.
+
+Besides stdio.h, you will find several other libraries useful, including <string.h> and <ctype.h>. You should take advantage of how letters are encoded in the ascii table and the fact that you can perform arithmetic with char's. Note that the stdio.h library contains a getc, getchar, and fgetc functions. Look them up, and see how they work.
+
+Output:
+
+The program should output: the total number of characters; the total number of letters; the frequency values for each letter; and the percentage for each letter, to 1 decimal value. Again, take advantage of <ctype.h> (no point re-inventing the wheel!). Follow a format somewhat similar to the output examples shown below; but feel free to change the look to your liking.
+
+Your results will be more interesting if you test your program on large text files; this will also give you a better feel for Scrabble's choice of letter point values (incidentally, as a side note: knowledge of a language's letters frequencies helps with the decryption of encoded texts in that language when simple ciphers are used).
+
+Below are examples of text files of various sizes (small: lyrics to the ND Victory March; medium/large: the June 2015 version of Apple's terms and conditions; and very large: Shakespeare's work), and the outputs that the program may produce for each (note again that you may format your output as you wish):
+
+ND fight song - output     (example of a small text file)
+Apple terms - output       (example of a medium/large text file)
+Shakespeare - output       (example of a very large text file)
+It is recommended that you use wget to download the examples files (copy-and-paste can be problematic for large files).
+You may incidentally find it interesting to compare with observed English letter frequencies
+
+For some fun: (if interested)
+A pangram, or holoaphabetic sentence, is a short sentence where each letter of the alphabet occurs at least once.
+For a few interesting examples, check out this list.
+
