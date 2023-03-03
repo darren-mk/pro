@@ -12,5 +12,13 @@
 (->> body
      (filter :cps_performance_policy_level)
      (map :cps_performance_policy_level)
+     frequencies
+    )
+
+;; => {"LEVEL 3" 39, "LEVEL 2" 63, "NOT ENOUGH DATA" 15, "LEVEL 1" 24}
+
+(->> body
+     (filter :cps_performance_policy_level)
+     (map :cps_performance_policy_level)
      (filter #(= "LEVEL 3" %))
      count)

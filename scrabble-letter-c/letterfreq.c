@@ -26,7 +26,7 @@ int main() {
  
   // declare file pointer
   FILE * fp;
-  fp = fopen ("file.txt", "r");
+  fp = fopen("file.txt", "r");
 
   // get file size
   int fileSize = getFileSize("file.txt");
