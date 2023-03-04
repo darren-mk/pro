@@ -73,7 +73,7 @@ int main() {
   printf("4 - save all sayings in a new text file\n");
   printf("5 - quit the program\n");
   char userSelection[1];
-  char * newSayingEntered;
+  char newSayingEntered[64];
   char * textEnteredToSearch;
   char * overlapped;
   //
@@ -91,15 +91,14 @@ int main() {
       break;
     case '2':
       printf("okay, enter a new saying: ");
-      newSayingEntered = malloc(sizeof(char) * maxLengthOfSaying);
       fflush(stdin);
-      scanf("%19[^\n]", newSayingEntered);
+      fgets(newSayingEntered, sizeof(newSayingEntered), stdin);
+      newSayingEntered[strcspn(newSayingEntered, "\n")] = 0;
       fflush(stdin);
       for (int i = 0; i < maxLengthOfSaying; i++) {
         database[lineNumber][i] = newSayingEntered[i];
       }
       lineNumber++;
-      free(newSayingEntered);
       printf("your new saying \"%s\" is recorded into database.\n", newSayingEntered);
       break; 
     case '3':
