@@ -1,18 +1,8 @@
 (ns arena-challenge-clj.core
   (:require
    [clojure.java.io :as io]
-   [clojure.data.csv :as csv]
-   [arena-challenge-clj.functions :refer :all]))
+   [clojure.data.csv :as csv]))
 
-(def source-file "Artist_lists_small.txt")
-(def result-file "output/result.csv")
-(def threshold 50)
+(def filename "202303261933.csv")
 
-(defn -main
-  "main function is supposed to run by lein run command in cli.
-  it triggers process function in other file
-  by providing source-file name and threshold number.
-  and with the resturned result, it creates csv file in output folder."
-  []
-  (with-open [writer (io/writer result-file)]
-    (csv/write-csv writer (process source-file threshold))))
+(def reader (io/reader (str "~/Work/pro/arena-challenge-clj/resources/" filename)))
