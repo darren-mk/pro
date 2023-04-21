@@ -1,6 +1,6 @@
-(ns core-test
+(ns tetris-engine-clj.core-test
   (:require
-   [core :as src]
+   [tetris-engine-clj.core :as src]
    [clojure.test :as t]))
 
 (def samples

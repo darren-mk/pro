@@ -1,8 +1,14 @@
-(ns core
+(ns tetris-engine-clj.core
   (:require
    [clojure.string :as str]))
 
 (def shapes
+  "this map is aligned by keyword of 
+  single alphabets that represent shapes of tetris elements.
+  each of the values is vectors within a vector.
+  subvectors represent columns, and they start from left. 
+  number 1 within subvectors are painted part of the shape, 
+  and number 0 empty part outside the shape."
   {:q [[1 1] [1 1]]
    :z [[0 1] [1 1] [1]]
    :s [[1] [1 1] [0 1]]
@@ -17,6 +23,8 @@
     (-> v (concat padding) vec)))
 
 (defn count-zero-pieces
+  "counts how many zeroes a sequence 
+  contains on its left side."
   ([col]
    (count-zero-pieces col 0))
   ([col cnt]
@@ -92,11 +100,11 @@
 (defn verdict [panel]
   (apply max (map count panel)))
 
-(defn run [arg]
-  (let [input (or (get arg 'input-file) "input.txt")
+(defn run [& arg]
+  (let [input (or (first arg) "input.txt")
         data (-> input str slurp (str/split #"\n"))
         results (map (comp verdict process interpret) data)]
     (doseq [result results] (println result))))
 
 (comment
-  (run {}))
+  (run))
