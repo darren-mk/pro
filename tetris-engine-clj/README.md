@@ -19,3 +19,31 @@ So, you can just run it by
 
 To run unit tests on cli:
 `$ lein test`
+
+## Expectation
+
+With the data in the given `input.txt` file, the program
+will render below result in the console:
+
+~/tetris-engine-clj $ lein run
+2
+4
+0
+2
+4
+1
+0
+2
+2
+2
+1
+1
+4
+3
+1
+2
+1
+8
+8
+0
+3
