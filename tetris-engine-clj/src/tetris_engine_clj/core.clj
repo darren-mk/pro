@@ -142,9 +142,12 @@
 
 (defn run [& arg]
   (let [input (or (first arg) "input.txt")
+        output (or (second arg) "output.txt")
         data (-> input str slurp (str/split #"\n"))
-        results (map (comp verdict process interpret) data)]
-    (doseq [result results] (println result))))
+        results (map (comp verdict process interpret) data)
+        printable (str/join "\n" results)]
+    (spit output (str printable "\n"))
+    (println printable)))
 
 (comment
   (run))

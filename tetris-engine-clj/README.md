@@ -6,15 +6,16 @@ Written by Darren Kim.
 ## Usage
 
 To run the program on cli:
-`$ lein run <input-file-name>`
+`$ lein run <optional-input-file-name> <optional-output-file-name>`
 
-For example, you can enter:
-`$ lein run input.txt`
+For example, you can enter with options:
+`$ lein run input.txt output.txt`
 
-<input-file-name> is optional.
-In case you don't provide, the program will try to read
-`input.txt` file saved in the project folder by default.
-So, you can just run it by
+In case you don't provide optional arguments,
+the program will try to read `input.txt` file saved in the project folder
+and generate `output.txt` file by default.
+
+So, you can simply run it by
 `$ lein run`
 
 To run unit tests on cli:
@@ -22,28 +23,26 @@ To run unit tests on cli:
 
 ## Expectation
 
-With the data in the given `input.txt` file, the program
-will render below result in the console:
-
-~/tetris-engine-clj $ lein run
-2
-4
-0
-2
-4
-1
-0
-2
-2
-2
-1
-1
-4
-3
-1
-2
-1
-8
-8
-0
-3
+With the data in `input.txt` file in the given problem,
+the program will print result below and save it in the output file.
+`2`
+`4`
+`0`
+`2`
+`4`
+`1`
+`0`
+`2`
+`2`
+`2`
+`1`
+`1`
+`4`
+`3`
+`1`
+`2`
+`1`
+`8`
+`8`
+`0`
+`3`
