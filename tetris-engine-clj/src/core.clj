@@ -1,4 +1,6 @@
-(ns core)
+(ns core
+  (:require
+   [clojure.string :as str]))
 
 (def shapes
   {:q [[1 1] [1 1]]
@@ -60,16 +62,6 @@
         padded-shape (pad shape place)]
     (mapv #(fill %1 %2 height) panel padded-shape)))
 
-#_
-(defn trim [col]
-  (cond (empty? col) []
-        (zero? (last col)) (trim (butlast col))
-        :else (vec col)))
-
-#_
-(defn smooth [panel]
-  (mapv trim panel))
-
 (defn disappear
   ([panel]
    (disappear panel 0))
@@ -77,54 +69,34 @@
    (let [current-row (map #(get % row-num) panel)
          ended? (every? nil? current-row)
          made? (every? #(= 1 %) current-row)]
-     (cond ended? panel
+     (cond ended? (vec panel)
            made? (disappear (map #(delete-by-index % row-num) panel) row-num)
            :else (disappear panel (inc row-num))))))
 
-(defn measure [panel]
+(defn interpret [s]
+  (as-> s $
+    (str/split $ #",")
+    (map #(-> % char-array seq) $)
+    (map (fn [[letter num]]
+           {:shape (-> letter str str/lower-case keyword)
+            :place (-> num str Integer/parseInt )}) $)
+    (vec $)))
+
+(defn process [ms]
+  (let [f (fn [aggr {:keys [shape place]}]
+            (-> aggr
+                (land (shape shapes) place)
+                (disappear)))]
+    (reduce f (init-panel) ms)))
+
+(defn verdict [panel]
   (apply max (map count panel)))
 
-(-> (init-panel)
-    (land (:i shapes) 0)
-    (disappear)
-    (land (:i shapes) 4)
-    (disappear)
-    (land (:q shapes) 8)
-    (disappear)
-   #_ (measure))
-;; => 1
+(defn run [arg]
+  (let [input (or (get arg 'input-file) "input.txt")
+        data (-> input str slurp (str/split #"\n"))
+        results (map (comp verdict process interpret) data)]
+    (doseq [result results] (println result))))
 
-
-(-> (init-panel)
-    (land (:t shapes) 1)
-    (disappear)
-    (land (:z shapes) 3)
-    (disappear)
-    (land (:i shapes) 4)
-    (disappear)
-    (measure))
-
-;; => 
-
-
-
-(:i shapes)
-
-
-
-
-
-(land [[] [0 1] [1 1] [0 1] [] [] [] [] [] []]
-      (:z shapes)
-      3)
-
- 
-
-
-
-
-
-
-
-
-
+(comment
+  (run {}))
