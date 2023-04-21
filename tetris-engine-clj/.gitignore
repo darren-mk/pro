@@ -3,4 +3,5 @@
 .nrepl-port
 .lein-failures
 .lsp
-target    
+.lein-repl-history
+target

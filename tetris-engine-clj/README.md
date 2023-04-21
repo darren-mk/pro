@@ -5,6 +5,8 @@ Written by Darren Kim.<br />
 
 ## Usage
 
+### Run
+
 To run the program on cli:<br />
 `$ lein run <optional-input-file-name> <optional-output-file-name>`<br />
 
@@ -17,6 +19,16 @@ and generate `output.txt` file by default.<br />
 
 So, you can simply run it by<br />
 `$ lein run`<br />
+
+Or, you can also run it on repl.<br />
+`$ lein repl`<br />
+`tetris-engine-clj.core=> (-main)`<br />
+
+Or, in case you want to run on an excutable:<br />
+`$ lein uberjar`<br />
+`$ java -jar target/tetris-engine-clj-0.1.0-SNAPSHOT-standalone.jar`<br />
+
+### Test
 
 To run unit tests on cli:<br />
 `$ lein test`<br />

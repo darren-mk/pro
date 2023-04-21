@@ -1,6 +1,7 @@
 (ns tetris-engine-clj.core
   (:require
-   [clojure.string :as str]))
+   [clojure.string :as str])
+  (:gen-class))
 
 (def shapes
   "this map is aligned by keyword of
@@ -140,7 +141,7 @@
   [panel]
   (apply max (map count panel)))
 
-(defn run [& arg]
+(defn -main [& arg]
   (let [input (or (first arg) "input.txt")
         output (or (second arg) "output.txt")
         data (-> input str slurp (str/split #"\n"))
@@ -150,4 +151,4 @@
     (println printable)))
 
 (comment
-  (run))
+  (-main))
