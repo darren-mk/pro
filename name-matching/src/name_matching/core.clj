@@ -2,38 +2,25 @@
   (:require
    [clojure.java.io :as io]
    [clojure.data.csv :as csv]
-   [clojure.string :refer [lower-case includes?]]
-   [clojure.set :refer [intersection]]
-   [java-time :refer [local-date]]
-   [name-matching.function :refer :all]))
+   [name-matching.domain :as nmf]))
 
 (def files
   {:source 
-   {:applicants "applicants.csv"
-    :employees "employees.csv"}
+   {:applicants "input/applicants.csv"
+    :employees "input/employees.csv"}
    :result
-   {:applicants-to-employees "outcome/result-applicants-to-employees.csv"
-    :employees-to-applicants "outcome/result-employees-to-applicants.csv"}})
+   {:applicants-to-employees
+    "resources/output/result-applicants-to-employees.csv"}})
 
 (defn -main []
-  (do
-    (with-open
-      [writer
-       (io/writer
-        (-> files :result :applicants-to-employees))]
-      (csv/write-csv
-       writer
-       (map-coll->table 
-        (match:applicants->employees
-         (get-applicants files)
-         (get-employees files)))))
-    (with-open
-      [writer
-       (io/writer
-        (-> files :result :employees-to-applicants))]
-      (csv/write-csv
-       writer
-       (map-coll->table 
-        (match:employees->applicants
-         (get-employees files)
-         (get-applicants files)))))))
+  (with-open
+    [writer
+     (io/writer
+      (-> files :result :applicants-to-employees))]
+    (csv/write-csv
+     writer
+     (nmf/map-coll->table 
+      (nmf/match:applicants->employees
+       (nmf/get-applicants files)
+       (nmf/get-employees files)))))
+  (println "Job is done. Check output file."))
